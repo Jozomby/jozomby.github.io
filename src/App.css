@@ -44,8 +44,8 @@
 }
 
 .animation-container {
-  height: 800px;
-  width: 800px;
+  height: 600px;
+  width: 600px;
 }
 
 @-webkit-keyframes borderBlink {    
@@ -67,7 +67,7 @@
 .border-blink { 
   width: 200px;
   position: absolute !important;
-  margin-top: 800px !important;
+  margin-top: 600px !important;
   -webkit-animation: borderBlink 2s ease infinite;    
   animation: borderBlink 2s ease infinite;  
 }
@@ -75,19 +75,19 @@
 .announcement {
   position: absolute !important;
   @media (max-width: 600px) {
-    margin-left: 400px;
+    margin-left: 200px;
   }
   @media (min-width: 600px) {
     margin-left: 20%;
   }
-  margin-top: 800px !important; 
+  margin-top: 600px !important; 
 }
 
 .tree {
   position: absolute;
-  height: 800px;
+  height: 600px;
   margin-left: -70px;
-  min-width: 800px;
+  min-width: 600px;
   svg {
     height: 100%;
     width: 100%;
@@ -96,90 +96,90 @@
 
 .gander-1 {
   position: absolute;
-  margin-left: 280px;
-  margin-top: 640px;
+  margin-left: 175px;
+  margin-top: 470px;
   animation: gander1Wobble 1s ease infinite;
   img {
-    height: 120px;
+    height: 100px;
   }
 }
 
 @-webkit-keyframes gander1Wobble {    
   from, to {    
-      margin-left: 270px;
+      margin-left: 175px;
   }    
   50% {    
-      margin-left: 280px;    
+      margin-left: 185px;    
   }    
 }    
 @keyframes gander1Wobble {    
   from, to {    
-    margin-left: 270px;
+    margin-left: 175px;
 }    
 50% {    
-    margin-left: 280px;    
+    margin-left: 185px;    
 }    
 }
 
 .gander-2 {
   position: absolute;
-  margin-left: 290px;
-  margin-top: 640px;
+  margin-left: 190px;
+  margin-top: 470px;
   animation: gander2Wobble 1s ease infinite;
   img {
-    height: 120px;
+    height: 100px;
   }
 }
 
 @-webkit-keyframes gander2Wobble {    
   from, to {    
-      margin-left: 280px;
+      margin-left: 190px;
   }    
   50% {    
-      margin-left: 290px;    
+      margin-left: 200px;    
   }    
 }    
 @keyframes gander2Wobble {    
   from, to {    
-    margin-left: 280px;
+    margin-left: 190px;
 }    
 50% {    
-    margin-left: 290px;    
+    margin-left: 200px;    
 }    
 }
 
 .gander-3 {
   position: absolute;
-  margin-left: 320px;
-  margin-top: 640px;
+  margin-left: 220px;
+  margin-top: 470px;
   animation: gander3Wobble 1s ease infinite;
   img {
-    height: 120px;
+    height: 100px;
   }
 }
 
 @-webkit-keyframes gander3Wobble {    
   from, to {    
-      margin-left: 310px;
+      margin-left: 210px;
   }    
   50% {    
-      margin-left: 320px;    
+      margin-left: 220px;    
   }    
 }    
 @keyframes gander3Wobble {    
   from, to {    
-    margin-left: 310px;
+    margin-left: 210px;
 }    
 50% {    
-    margin-left: 320px;    
+    margin-left: 220px;    
 }    
 } 
 
 .gander-4 {
   position: absolute;
-  margin-left: 380px;
-  margin-top: 640px;
+  margin-left: 270px;
+  margin-top: 470px;
   img {
-    height: 120px;
+    height: 100px;
   }
 }
