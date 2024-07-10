@@ -1,22 +1,29 @@
-import { memo } from "react";
-import { RecipeLine } from "./recipe-line";
+import { memo } from "react"
+import { RecipeLine } from "./recipe-line"
+import "./recipes.css"
 
 export const Recipes = memo(() => {
-    return (
-        <>
-            <h1>Recipes</h1>
-            <h2>Herdaz</h2>
-            <ul>
-                <li>
-                    <RecipeLine id="chouta" />
-                </li>
-            </ul>
-            <h2>Thaylenah</h2>
-            <ul>
-                <li>
-                    <RecipeLine id="thaylen-bread" />
-                </li>
-            </ul>
-        </>
-    )
+  return (
+    <div className="content">
+      <div className="centered">
+        <h1>Recipes</h1>
+      </div>
+      <div className="recipeCountrySection">
+        <h2>Herdaz</h2>
+        <ul>
+          <li>
+            <RecipeLine id="chouta" />
+          </li>
+        </ul>
+      </div>
+      <div className="recipeCountrySection">
+        <h2>Thaylenah</h2>
+        <ul>
+          <li>
+            <RecipeLine id="thaylenBread" />
+          </li>
+        </ul>
+      </div>
+    </div>
+  )
 })

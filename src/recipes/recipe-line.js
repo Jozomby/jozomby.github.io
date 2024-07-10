@@ -1,10 +1,13 @@
 import { memo } from "react";
+import "./recipe-line.css";
 
 export const RecipeLine = memo(({ id }) => {
-    const { link, name } = require(`./recipes/${id}`)
+    const recipeInfoModule = require(`./recipes/${id}`)
+    const recipeInfo = recipeInfoModule[id]
     return (
-        <div className="recipe-line">
-            <a href={link}>{name}</a>
+        <div className="recipeLine">
+            <a href={recipeInfo.link}>{recipeInfo.name}</a>
+            <p>{recipeInfo.summary}</p>
         </div>
     )
 })

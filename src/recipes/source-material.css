@@ -1,0 +1,20 @@
+
+.source-material-container {
+    width: 100%;
+}
+
+.collapse-list {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 1em;
+    text-indent: -1em;
+    text-align: left;
+}
+
+.collapse-list li {
+    cursor: pointer;
+}
+
+.collapse-list li p {
+    text-align: left;
+}

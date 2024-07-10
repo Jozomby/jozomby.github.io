@@ -1,45 +1,45 @@
 .navbar {
-    display: flex;
-    background-color: #333;
-    color: white;
+  display: flex;
+  background-color: #333;
+  color: white;
 }
 
 @media (max-width: 1000px) {
-    .navbar {
-        flex-direction: column;
-    }
-    .link:hover {
-        border-radius: 2px 2px 0px 0px;
-    }
+  .navbar {
+    flex-direction: column;
+  }
+  .link:hover {
+    border-radius: 2px 2px 0px 0px;
+  }
 }
 @media (min-width: 1000px) {
-    .navbar {
-        flex-direction: row;
-        justify-content: space-between;
-        padding-left: 16px;
-        padding-right: 6px;
-    }
-    .link:hover {
-        border-radius: 2px;
-    }
+  .navbar {
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 16px;
+    padding-right: 6px;
+  }
+  .link:hover {
+    border-radius: 2px;
+  }
 }
 
 .links {
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    justify-content: center;
-    align-items: center;
-    font-size: 1.5em;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5em;
 }
 
 .link {
-    padding-left: 3px;
-    padding-right: 3px;
-    padding-bottom: 5px;
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-bottom: 5px;
 }
 
 .link:hover {
-    background-color: #777;
-    cursor: pointer;
+  background-color: #777;
+  cursor: pointer;
 }

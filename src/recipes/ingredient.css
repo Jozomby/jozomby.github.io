@@ -1,0 +1,6 @@
+.underlinedIngredient {
+  text-decoration: underline;
+  text-decoration-color: #84ccff;
+  cursor: pointer;
+  width: fit-content;
+}

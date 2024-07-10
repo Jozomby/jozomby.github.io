@@ -1,5 +1,10 @@
+#root {
+  height: 100%;
+}
+
 .App {
   text-align: center;
+  height: 100%;
 }
 
 .App-logo {
@@ -41,6 +46,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  max-width: 1000px;
 }
 
 .animation-container {
@@ -48,28 +54,30 @@
   width: 600px;
 }
 
-@-webkit-keyframes borderBlink {    
-  from, to {    
-      border-color: transparent    
-  }    
-  50% {    
-      border-color: rgb(25, 118, 210)    
-  }    
-}    
-@keyframes borderBlink {    
-  from, to {    
-      border-color: transparent    
-  }    
-  50% {    
-      border-color: rgb(25, 118, 210)    
-  }    
-}    
-.border-blink { 
+@-webkit-keyframes borderBlink {
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: rgb(25, 118, 210);
+  }
+}
+@keyframes borderBlink {
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: rgb(25, 118, 210);
+  }
+}
+.border-blink {
   width: 200px;
   position: absolute !important;
   margin-top: 600px !important;
-  -webkit-animation: borderBlink 2s ease infinite;    
-  animation: borderBlink 2s ease infinite;  
+  -webkit-animation: borderBlink 2s ease infinite;
+  animation: borderBlink 2s ease infinite;
 }
 
 .announcement {
@@ -80,7 +88,7 @@
   @media (min-width: 600px) {
     margin-left: 20%;
   }
-  margin-top: 600px !important; 
+  margin-top: 600px !important;
 }
 
 .tree {
@@ -104,21 +112,23 @@
   }
 }
 
-@-webkit-keyframes gander1Wobble {    
-  from, to {    
-      margin-left: 175px;
-  }    
-  50% {    
-      margin-left: 185px;    
-  }    
-}    
-@keyframes gander1Wobble {    
-  from, to {    
+@-webkit-keyframes gander1Wobble {
+  from,
+  to {
     margin-left: 175px;
-}    
-50% {    
-    margin-left: 185px;    
-}    
+  }
+  50% {
+    margin-left: 185px;
+  }
+}
+@keyframes gander1Wobble {
+  from,
+  to {
+    margin-left: 175px;
+  }
+  50% {
+    margin-left: 185px;
+  }
 }
 
 .gander-2 {
@@ -131,21 +141,23 @@
   }
 }
 
-@-webkit-keyframes gander2Wobble {    
-  from, to {    
-      margin-left: 190px;
-  }    
-  50% {    
-      margin-left: 200px;    
-  }    
-}    
-@keyframes gander2Wobble {    
-  from, to {    
+@-webkit-keyframes gander2Wobble {
+  from,
+  to {
     margin-left: 190px;
-}    
-50% {    
-    margin-left: 200px;    
-}    
+  }
+  50% {
+    margin-left: 200px;
+  }
+}
+@keyframes gander2Wobble {
+  from,
+  to {
+    margin-left: 190px;
+  }
+  50% {
+    margin-left: 200px;
+  }
 }
 
 .gander-3 {
@@ -158,22 +170,24 @@
   }
 }
 
-@-webkit-keyframes gander3Wobble {    
-  from, to {    
-      margin-left: 210px;
-  }    
-  50% {    
-      margin-left: 220px;    
-  }    
-}    
-@keyframes gander3Wobble {    
-  from, to {    
+@-webkit-keyframes gander3Wobble {
+  from,
+  to {
     margin-left: 210px;
-}    
-50% {    
-    margin-left: 220px;    
-}    
-} 
+  }
+  50% {
+    margin-left: 220px;
+  }
+}
+@keyframes gander3Wobble {
+  from,
+  to {
+    margin-left: 210px;
+  }
+  50% {
+    margin-left: 220px;
+  }
+}
 
 .gander-4 {
   position: absolute;
@@ -181,5 +195,15 @@
   margin-top: 470px;
   img {
     height: 100px;
+  }
+}
+
+.centered {
+  width: 100%;
+}
+
+h2 {
+  @media (max-width: 600px) {
+    margin-left: 10px;
   }
 }

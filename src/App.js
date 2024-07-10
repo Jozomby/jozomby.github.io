@@ -1,16 +1,16 @@
 import { Routes, Route, Outlet } from "react-router-dom"
 import { GanderReveal } from "./gander-reveal"
 import { RecipesRoutes } from "./recipes/routes"
-import './App.css';
+import "./App.css"
 
 function App() {
   return (
-  <Routes>
-    <Route path="/" element={<Layout />}>
-      <Route index element={<GanderReveal />} />
-      { RecipesRoutes }
-    </Route>
-  </Routes>
+    <Routes>
+      <Route path="/" element={<Layout />}>
+        <Route index element={<GanderReveal />} />
+        {RecipesRoutes}
+      </Route>
+    </Routes>
   )
 }
 
@@ -19,7 +19,7 @@ function Layout() {
     <div className="App">
       <Outlet />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
