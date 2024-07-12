@@ -15,9 +15,10 @@ export const About = memo(() => {
             website is my attempt to recreate the foods mentioned in the books
             of the Stormlight Archive. If you haven't read them yet, I would
             encourage you to. See{" "}
-            <a href="https://www.brandonsanderson.com/hello-my-names-brandon/"></a>
-            Brandon's website
-            <a /> for recommendataions for where to start reading.
+            <a href="https://www.brandonsanderson.com/hello-my-names-brandon/">
+              Brandon's website
+            </a>{" "}
+            for recommendataions for where to start reading.
           </p>
           <p>
             While others have created recipes inspired by the Stormlight
