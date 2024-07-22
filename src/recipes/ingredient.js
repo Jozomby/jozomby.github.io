@@ -10,6 +10,20 @@ export const info = {
       would not be available on Roshar.
     </>
   ),
+  almond: (
+    <>Nuts are mentioned in the Rosharan Wines illustration in Oathbringer.</>
+  ),
+  avocado: (
+    <>
+      I've chosen to use avocados for lurnips. We know that lurnips are small
+      and green, the flavor is such that they fit well in a sweet soup, and they
+      are a staple food in Emul. (The Way of Kings interlude I-7) The fact that
+      they aare a staple food is the hardest requirement, as otherwise there are
+      plenty of green fruits or vegetables that could work. I tried tomatillos,
+      but eventually settled on avocados as a good compromise between being
+      sweet and having many uses.
+    </>
+  ),
   bakingPowder: (
     <>
       Baking powder is simply baking soda with some additional ingredients.
@@ -24,28 +38,93 @@ export const info = {
       baking soda or baking powder in any recipes.
     </>
   ),
+  beanPaste: (
+    <>
+      Bean paste is mentioned as being used with flatbread, so it is available
+      on Roshar. (Words of Radiance ch 59)
+    </>
+  ),
+  bellPepper: (
+    <>
+      Since spicy food is available on Roshar, I've chosen to believe that
+      peppers are used for that purpose. If hot peppers are available, bell
+      peppers should be as well.
+    </>
+  ),
+  blueberries: (
+    <>
+      One of the jams Kabsal gives Shallan is called bluebar jam. (The Way of
+      Kings ch 39) I made the obvious assumption that the fruit used for that
+      would be similar to blueberries.
+    </>
+  ),
+  burdockRoot: (
+    <>
+      Burdock root is pretty close to longroot from the books. It's long, brown,
+      and one of the less-popular root vegetables. Once peeled, it's not quite
+      as sticky as longroot, but that's a fairly minor difference. (The Way of
+      Kings ch 37)
+    </>
+  ),
+  butter: (
+    <>
+      There are sheep in Shinovar. (Rhythm of War, interlude I7) Given that
+      sheep milk is used on earth for dairy products, the{" "}
+      <a href="https://wob.coppermind.net/events/148-torcom-the-way-of-kings-re-read-interview/#e2778">
+        differences in pigs that allow them to be milked,
+      </a>{" "}
+      and the fact that Shinovar generally has more access to earth-like foods,
+      I assume that butter is widely available in Shinovar.
+    </>
+  ),
+  butternutSquash: (
+    <>
+      I've chosen butternut squash to represent tenem. Tenem is described as a
+      soft, light orange vegetable that can be fried and sliced into rounds.
+      (The Way of Kings ch 22) At first I thought an orange sweet potato would
+      work, but roots and tubers are mentioned often in the books, and tenem is
+      described instead as a vegetable. That indicates to me that it's something
+      different. So I chose to use butternut squash - it's the right color, and
+      is delicous when fried.
+    </>
+  ),
   cannedFood: (
     <>
       Whether or not canned food is available on Roshar is a bit unclear. On one
-      hand, Kaladin has never seen a metal can of food before meeting Riino
-      (Oathbringer ch 97). On the other hand, jam is stored in jars (The Way of
-      Kings ch 33). On earth, jam as we know it didn't exist until the invention
-      of canning in the 1800s. Before that, fruit was preserved in sugar or
-      honey all the way back to the Roman era, but it was more similar to
-      preserves than jam. The amount of sugar needed to preserve fruit in a
-      non-sterile environmeent makes a spreadable, fruit-forward jam like
-      Shallan eats on bread not possible. Given that, it seems that some sort of
-      food preservation method similar to canning is available on Roshar, even
-      though it wasn't discovered on earth until much later. If that's the case,
-      why is Kaladin not familiar with canned food? On earth, the invention of
-      canning was prompted by an award offered by Napoleon for finding a way to
-      preserve food for his armies. In Alethkar, this isn't necessary becausee
-      of soulcasters. So perhaps canning (or something similar) was developed
-      elsewhere on Roshar, then became popular for luxury items such as jam that
-      are extremely difficult to create with soulcasting.
+      hand, Kaladin has never seen a metal can of food before meeting Riino, who
+      I assume got the cans off-world. (Oathbringer ch 97) On the other hand,
+      jam is stored in jars. (The Way of Kings ch 33) On earth, jam as we know
+      it didn't exist until the invention of canning in the 1800s. Before that,
+      fruit was preserved in sugar or honey all the way back to the Roman era,
+      but it was more similar to preserves than jam. The amount of sugar needed
+      to preserve fruit in a non-sterile environment makes a spreadable,
+      fruit-forward jam like Shallan eats on bread not possible. Given that, it
+      seems that some sort of food preservation method similar to canning is
+      available on Roshar, even though it wasn't discovered on earth until much
+      later. If that's the case, why is Kaladin not familiar with canned food?
+      On earth, the invention of canning was prompted by an award offered by
+      Napoleon for finding a way to preserve food for his armies. In Alethkar,
+      this isn't necessary because of soulcasters. So perhaps canning (or
+      something similar) was developed elsewhere on Roshar, then became popular
+      for luxury items such as jam that are extremely difficult to create with
+      soulcasting.
     </>
   ),
-  coconutOil: (
+  celeriac: (
+    <>
+      I've used celeriac in place of stagm. Stagm is described as a brownish
+      tuber that is small enough for an entire one to be a single serving, and
+      it can be sliced into disks that can be picked up and topped with other
+      food. (The Way of Kings ch 54) Celeriac matches this pretty well.
+    </>
+  ),
+  chicken: (
+    <>
+      While it is considered exotic, chicken is available to wealthy people
+      outside of Shinovar. (The Way of Kings ch 22)
+    </>
+  ),
+  coconut: (
     <>
       Though never mentioned in the books, coconuts fit Roshar well. They seem
       like a close analogue to the varieties of rockbuds that have shells and
@@ -53,12 +132,35 @@ export const info = {
       and features in Asian cuisine.
     </>
   ),
-  cornStarch: (
+  corn: (
     <>
       Lavis is a{" "}
       <a href="https://wob.coppermind.net/events/409/#e13805">
         close analogue to corn.
       </a>
+    </>
+  ),
+  crayfish: (
+    <>
+      Crayfish are the closest thing I can find to a cremling. They're small and
+      have just a little bit of meat of them. They seem very similar to skrips,
+      since both have a flat tail, claws, and atennae. (Oathbringer ch 68)
+    </>
+  ),
+  cucumber: (
+    <>
+      Cucumbers seem like a good fit for crispmelons. I've read that horses can
+      enjoy them (it's implied that Gallant likes crispmelons in The Way of
+      Kings ch 15), and they grow on vines, like many Rosharan vegetables.
+    </>
+  ),
+  curryPaste: (
+    <>
+      Curry paste exists on Roshar. (Words of Radiance ch 49). I chose to use
+      yellow curry paste each time, so that you don't have to buy multiple
+      varieties. But try mixing it up! While yellow curry paste works well for
+      women's food, as it is the least spicy, red curry paste might go better in
+      men's food.
     </>
   ),
   dairy: (
@@ -105,7 +207,7 @@ export const info = {
       At first I wasn't sure that fish would feature heavily in Rosharan
       cooking. Shellfish and crusteaceans are mentioned much more frequently,
       and most rivers are ephemeral, only running after storms. (For an example,
-      seee Rhythm of War ch 17) However, when Riino gives Kaladin a can of fish
+      see Rhythm of War ch 17) However, when Riino gives Kaladin a can of fish
       (Oathbringer ch 97), he recognizes it immediately as 'fish rations.' This
       indicates not only that Kaladin is familiar with fish, but that it's used
       as soldier rations. I therefore conclude that fish must be at least
@@ -118,6 +220,54 @@ export const info = {
       <a href="https://wob.coppermind.net/events/409/#e13805">
         there is a Rosharan analogue to garlic.
       </a>
+    </>
+  ),
+  glutinousRiceFlour: (
+    <>
+      Despite the name, glutinous rice flour does not contain gluten. It's named
+      that because it's stickier and stretchier that normal rice flour. As for
+      Roshar, I assume something similar is available since{" "}
+      <a href="https://coppermind.net/wiki/Tallew">
+        rice is an analogue to tallew.
+      </a>
+    </>
+  ),
+  gochugaru: (
+    <>
+      Gochugaru, or Korean hot pepper flakes, are my ingredient of choice to
+      bring heat to Rosharan dishes, especially Alethi ones. If not available,
+      it can be replaced with other red pepper flakes, though try and use
+      medium-to-mild varieties. You could also replace with chili powders, such
+      as kashmiri chili powder. If you do that, reduce the amount to 3/4 of the
+      specified amount, since powder packs more tightly than flakes.
+    </>
+  ),
+  honey: (
+    <>
+      Honey is mentioned in the Rosharan Wines illustration in Oathbringer.
+      While it's unlikely that bees exist on Roshar, there are flowers, which
+      means that there are pollinators. It's not too much of a stretch to think
+      that these other creatures might produce something similar to honey.
+    </>
+  ),
+  hotPeppers: (
+    <>
+      Given the prevalence of spicy food on Roshar, I feel comfortable assuming
+      hot peppers are available.
+    </>
+  ),
+  kiwi: (
+    <>
+      Scalespray fruit{" "}
+      <a href="https://reactormag.com/cosmere-cuisine-meals-inspired-by-the-stormlight-archive-part-1/">
+        tastes like kiwi.
+      </a>
+      .
+    </>
+  ),
+  lemon: (
+    <>
+      Lemons are present are roshar. (Oathbringer, Rosharan Wines illustration)
     </>
   ),
   maseca: (
@@ -133,6 +283,14 @@ export const info = {
       require it.
     </>
   ),
+  mussels: (
+    <>
+      Mussels are my choice for stranna haspers. Haspers are bivalve mollusks
+      that are fairly common and live above water. (The Way of Kings ch 44) On
+      earth we don't have any non-aquatic bivalves, but mussels fill the rest of
+      the requirements.
+    </>
+  ),
   onion: (
     <>
       Onions are in the same family as garlic, which Brandon has stated has a{" "}
@@ -145,6 +303,82 @@ export const info = {
     <>
       Oyster sauce is made by cooking down oysters. Shellfish is common on
       Roshar, so something similar should be available.
+    </>
+  ),
+  passionfruit: (
+    <>
+      Passionfruit feels like something straight out of Roshar. It's a round
+      fruit that grows on a vine, and is filled with pulp-encased seeds. If that
+      isn't a rockbud I don't know what is.
+    </>
+  ),
+  pectin: (
+    <>
+      Pectin occurs naturally in many fruits, and is extracted from them for use
+      in getting jams and jellies to gel. Pectin can be extracted by boiling and
+      soaking citrus peels and seeds, which is what I assume they do on Roshar.
+      (Lemons are mentioned in the Rosharan Wines illustration in Oathbringer.)
+      Since it's essentially the same ingredient, I've opted to take a shortcut
+      by using commercial pectin rather than extracting my own.
+    </>
+  ),
+  pickledCucumber: (
+    <>
+      Cucumbers seem like a good fit for crispmelons. I've read that horses can
+      enjoy them (it's implied that Gallant likes crispmelons in The Way of
+      Kings ch 15), and they grow on vines, like many Rosharan vegetables.
+      Vinegar is definitely present on Roshar: it's the next step in the
+      fermentation process after alcohol, and Shallan is familiar with the
+      smell. (The Way of Kings ch 48) Add those two together, and you get
+      pickles.
+    </>
+  ),
+  plum: (
+    <>
+      Plums seem like a good fit for palafruit. Just like palafruit, they
+      contain pits, can be soft when ripe, and are brightly colored. (Rhythm of
+      War ch 21) They also are popular in some Asian cuisines, so they seem like
+      a good fit here.
+    </>
+  ),
+  pork: (
+    <>
+      Pork exists on Roshar, and is available enough that well-to-do darkeyes
+      eat it occasionally. (The Way of Kings, ch 37)
+    </>
+  ),
+  potatoes: (
+    <>
+      I've chosen not to use potatoes in any of the recipes. There's plenty of
+      root vegetables in Rosharan cooking, and I see no reason to include one
+      that isn't mentioned in the books or by Brandon. Also, there's the fact
+      that Rock is{" "}
+      <a href="https://wob.coppermind.net/events/508/#e16222">
+        not familiar with potatoes
+      </a>
+      .
+    </>
+  ),
+  rice: (
+    <>
+      Tallew is{" "}
+      <a href="https://coppermind.net/wiki/Tallew">comparable to rice.</a> It
+      can be boiled, steamed, fermented, or made into flatbread.
+    </>
+  ),
+  scallops: <>Shellfish is present on Roshar. (Rhythm of War prologue)</>,
+  shrimp: (
+    <>
+      Shrimp seems like a good substitute for finger crabs. They look somewhat
+      like curled fingers, need to be shelled like finger crabs, and should be
+      cooked briefly just like Rock said. (Oathbringer ch 37)
+    </>
+  ),
+  smelts: (
+    <>
+      We know that purelakers eat fish, specifically fish that are small enough
+      to fit in a bucket and still swim around. (The Way of Kings Interlude
+      I-1). Smelts match this well.
     </>
   ),
   softShellCrab: (
@@ -169,10 +403,79 @@ export const info = {
       same or similar cultures, to create cohesiveness in the cuisines.
     </>
   ),
+  strawberry: <>Strawberries grow in Shinovar. (The Way of Kings ch 48)</>,
+  summerSquash: (
+    <>
+      Since I picked butternut squash to represent tenem (see Butternut Squash
+      on the Source Material page) it makes sense to use other types of squash
+      as well.
+    </>
+  ),
+  sweetPotato: (
+    <>
+      Brandon has stated the most popular vegetable on Roshar is{" "}
+      <a href="https://wob.coppermind.net/events/409/#e13805">
+        similar to a sweet potato
+      </a>
+      .
+    </>
+  ),
+  tomatoes: (
+    <>
+      I've chosen not to use tomatoes in any recipes. They're never mentioned in
+      the books, and avoiding them has helped me make the dishes feel a little
+      more alien, to me at least.
+    </>
+  ),
+  turnip: (
+    <>
+      As humorous as it sounds, I've used turnips in place of Rosharan curnips
+      solely based on the name. We don't know much about curnips other than that
+      they're a vegetable. Given Rosharan's penchant for naming things based off
+      similar non-Rosharan things, it seems possible that curnips were named
+      such <i>because</i> they were similar to turnips.
+    </>
+  ),
   vegetableOil: (
     <>
       There should be no problem finding low-flavor vegetable oils on Roshar.
       Seeds, vegetables, and fruits can all provide this.
+    </>
+  ),
+  vinegar: (
+    <>
+      Vinegar is definitely present on Roshar: it's the next step in the
+      fermentation process after alcohol, and Shallan is familiar with the
+      smell. (The Way of Kings ch 48)
+    </>
+  ),
+  wheatFlour: (
+    <>
+      Wheat flour is available as an{" "}
+      <a href="https://wob.coppermind.net/events/409/#e13805">
+        export from Shinovar.
+      </a>
+    </>
+  ),
+  yeast: (
+    <>
+      Though commercial yeast in packets or jars like we have today wouldn't be
+      available on Roshar, wild yeast can be used for the same purpose. This is
+      done today with sourdough recipes and the like. The people on Roshar
+      definitely have access to yeast, it's just a little less convenient than
+      what you can buy from the grocery store.
+    </>
+  ),
+  yogurt: (
+    <>
+      According to Brandon,{" "}
+      <a href="https://wob.coppermind.net/events/148-torcom-the-way-of-kings-re-read-interview/#e2778">
+        dairy products are available on Roshar,
+      </a>{" "}
+      though they're less common. As for yogurt specifically, it's a traditional
+      part of many relevant earth cuisines, including Indian and Mongolian food.
+      I've chosen to use it sparingly, especially in upper-class or more
+      traditional dishes.
     </>
   )
 }

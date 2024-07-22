@@ -27,11 +27,11 @@ export const SourceMaterial = memo(() => {
         food is also heavy in dairy, which Alethi food is not. Given that, I
         used some Mongolian influences for more traditional Alethi dishes, such
         as the food eaten by Roshone, but looked to India more for the curries
-        and spices. I did give a nod to Korea by using gochu garu (Korean red
+        and spices. I did give a nod to Korea by using gochugaru (Korean red
         pepper flakes) as the way to bring heat to dishes. Being Vorin, Alethkar
         has two cuisines. Food eaten by men is spicy, and women's food is sweet.
         It should be noted that men do eat sweet food as well, such as fruit and
-        pastries (Oathbringer ch 69). But their meals tend toward spicy and
+        pastries. (Oathbringer ch 69) But their meals tend toward spicy and
         savory, while women's meals are sweet.
       </>
     ),
@@ -54,12 +54,12 @@ export const SourceMaterial = memo(() => {
         ingredients.
       </>
     ),
-    babatharnam: <>Has tasty snails (The Way of Kings ch 46).</>,
+    babatharnam: <>Has tasty snails. (The Way of Kings ch 46)</>,
     emul: (
       <>
         Emul is a Makabaki kingdom, and as such likely is similar in culture to
         Azir. We don't know much more about them than that, other than the fact
-        that their food is salty (The Way of Kings ch 55).
+        that their food is salty. (The Way of Kings ch 55)
       </>
     ),
     herdaz: (
@@ -89,8 +89,8 @@ export const SourceMaterial = memo(() => {
         <a href="https://wob.coppermind.net/events/355/#e10503">
           mashup of Hawaiian, Scottish, and Russian
         </a>{" "}
-        cultures. Their food is stated to be less heavy on the spices (The Way
-        of Kings ch 23). We also know that Rock's recipes utilized the
+        cultures. Their food is stated to be less heavy on the spices. (The Way
+        of Kings ch 23) We also know that Rock's recipes utilized the
         ingredients he had available, even if they weren't traditionally
         Unkalaki.
       </>
@@ -98,8 +98,8 @@ export const SourceMaterial = memo(() => {
     kharbranth: (
       <>
         Kharbranth doesn't have a culture of its own. It's a cosmopolitan city
-        that combines peoples from many different cultures (The Way of Kings ch
-        3). Soup is preferred for lunch (The Way of Kings ch 29), and at least
+        that combines peoples from many different cultures. (The Way of Kings ch
+        3) Soup is preferred for lunch (The Way of Kings ch 29), and at least
         some people there follow Vorin traditions of men's food being spicy and
         women's food being sweet.
       </>
@@ -180,11 +180,11 @@ export const SourceMaterial = memo(() => {
             Well, if you'd like to do that, go for it! If you're familiar with
             those methods, it won't take much tweaking to get these recipes to
             work with them. But for myself, and the common home cook, I've drawn
-            the line here. I want these recipes to be doable for most people. All
-            the modern methods I suggest are simply ways to make things easier.
-            These same things have been done for hundreds if not thousands of
-            years, we just have easier ways of doing them now. And I don't
-            think there's anything wrong with that.
+            the line here. I want these recipes to be doable for most people.
+            All the modern methods I suggest are simply ways to make things
+            easier. These same things have been done for hundreds if not
+            thousands of years, we just have easier ways of doing them now. And
+            I don't think there's anything wrong with that.
           </p>
         </div>
       </div>

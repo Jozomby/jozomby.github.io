@@ -1,9 +1,9 @@
 import { memo } from "react"
-import { recipeMapping } from "./recipe-mapping"
 import "./recipe-card.css"
 
 export const RecipeCard = memo(({ id }) => {
-  const recipeInfo = recipeMapping[id]
+const recipeInfoModule = require(`./recipes/${id}`)
+const recipeInfo = recipeInfoModule[id]
   const handleCardClick = () => {
     window.location.href = recipeInfo.link
   }

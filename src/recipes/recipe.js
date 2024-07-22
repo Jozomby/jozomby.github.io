@@ -1,10 +1,11 @@
 import { memo, useState } from "react"
 import { Ingredient } from "./ingredient"
 import { Button, Collapse } from "@mui/material"
-import { recipeMapping } from "./recipe-mapping"
+import "./recipe.css"
 
 export const Recipe = memo(({ id }) => {
-  const recipeInfo = recipeMapping[id]
+  const recipeInfoModule = require(`./recipes/${id}`)
+  const recipeInfo = recipeInfoModule[id]
   const [notesOpen, setNotesOpen] = useState(false)
   return (
     <div className="content">
@@ -13,6 +14,11 @@ export const Recipe = memo(({ id }) => {
       </div>
       <div className="info-container">
         <div className="info-text">
+          <p>{`Cuisine: ${
+            recipeInfo.cuisine + (recipeInfo.inspiration
+              ? " | Inspiration: " + recipeInfo.inspiration
+              : "")
+          }`}</p>
           <p className="description">{recipeInfo.summary}</p>
           <p className="quotes">{recipeInfo.quotes}</p>
           <p className="specifications">{`Time: ${recipeInfo.time}. Makes ${recipeInfo.quantity}.`}</p>
@@ -51,7 +57,10 @@ export const Recipe = memo(({ id }) => {
         ))}
       </ol>
       <p className="feedback">
-        Tried this recipe? <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1SVKuTmr8zLvDplxhyjBrYILfwn49X81lQYkxPtWo3quXGA/viewform?usp=sf_link">Let me know how it went.</a>
+        Tried this recipe?{" "}
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1SVKuTmr8zLvDplxhyjBrYILfwn49X81lQYkxPtWo3quXGA/viewform?usp=sf_link">
+          Let me know how it went.
+        </a>
       </p>
     </div>
   )
