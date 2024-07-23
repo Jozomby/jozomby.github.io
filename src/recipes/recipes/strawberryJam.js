@@ -38,9 +38,9 @@ export const strawberryJam = {
   ],
   steps: [
     "Remove stems and leaves from strawberries. Crush them to a chunky pulp - it should result in about 6 cups.",
-    "Put crused strawberries in a medium-sized pot. Add butter and sugar. Sprinkle pectin over the sugar.",
+    "Put crushed strawberries in a medium-sized pot. Add butter and sugar. Sprinkle pectin over the sugar.",
     "Mix everything together, bring to boil over high heat. Reduce heat to medium, then simmer 20-30 minutes until gelled.",
-    "To tell when the mixture has hit the gel point, either use a cooking thermometer (gel point is 220 degrees Farenheit at sea level, and decreases with elevation). Alternately, dip a spoon in the boiling mixture, pop the spoon in the freezer for a minute to cool, then see if the jam on the spoon has hit a consistency that you like yet.",
+    "To tell when the mixture has hit the gel point, either use a cooking thermometer (gel point is 220 degrees Fahrenheit at sea level, and decreases with elevation). Alternately, dip a spoon in the boiling mixture, pop the spoon in the freezer for a minute to cool, then see if the jam on the spoon has hit a consistency that you like yet.",
     "To can the jam, sterilize 6 half-pint jars (boil for 10 minutes, longer at higher elevations). Fill the jars to 1/4 inch from the rim. Warm the lids and rings in not-quite-boiling water. Clean the jar rims, place the lids on top, then screw on the rings to hand-tightness. Place jars in hot water canner, fill with enough water to be at least 2 inches above the tops of the jars, and bring to a boil. Boil for 10 minutes (longer at higher elevations). Remove jars from canner and let sit overnight. The lids should all pop down. For any lids that don't seal, keep the jars in the fridge. Remove the rings from the sealed jars, clean the rims, and store up to 2 years. Refrigerate after opening.",
     "To freeze the jam, place the jam in plastic containers, and freeze."
   ]

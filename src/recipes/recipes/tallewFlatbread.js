@@ -36,7 +36,7 @@ export const tallewFlatbread = {
     "Bring water and salt to a boil in a saucepan. Add rice flour all at once and mix until combined.",
     "Remove from heat, cover, and let rest 10 minutes.",
     "Lightly cover your hands in oil, then knead the dough into a ball. Separate into 6 pieces and roll into balls.",
-    "Heat a nonstick electric griddle to 375 degrees Farenheit. One at a time, place a dough ball between 2 pieces of parchment paper and roll until very thin.",
+    "Heat a nonstick electric griddle to 375 degrees Fahrenheit. One at a time, place a dough ball between 2 pieces of parchment paper and roll until very thin.",
     "Peel the dough off the paper and place on the griddle. Cook until browned in spots on both sides, flipping once. It should puff after the first flip. Serve with curry or other Rosharan dishes."
   ]
 }

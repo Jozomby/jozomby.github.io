@@ -8,7 +8,7 @@ export const fishSoup = {
   quantity: "4 servings",
   time: "1 hour",
   notes:
-    "We don't know much more about Purelake fish soup other than that it's a soup with small fish in it. I looked to Polynesian food and found Sua I'a. The biggest difference here is that small fish are used. I chose to use fresh hot peppers rather than gochugaru like many of the other recipes because this dish comees from a very different cuisine than Alethi food.",
+    "We don't know much more about Purelake fish soup other than that it's a soup with small fish in it. I looked to Polynesian food and found Sua I'a. The biggest difference here is that small fish are used. I chose to use fresh hot peppers rather than gochugaru like many of the other recipes because this dish comes from a very different cuisine than Alethi food.",
   quotes:
     "Maib stood inside, fixing a pot of fish soup (The Way of Kings, Interlude I-1)",
   image:
@@ -46,7 +46,7 @@ export const fishSoup = {
   ],
   steps: [
     "Defrost smelts, if frozen. Clean them by cutting just behind the head, starting from the top but not cutting all the way through. Pull the head off - it should pull the innards out with it. Discard the head and innards. Repeat with all smelts. Rinse them.",
-    "Boil 2 quarts of water in a pot. Chop the onion and pepper, and add thme to the boiling water along with the salt. Simmer for five minutes.",
-    "Add the smelts to the pot along with the coconut milk. Continue to simmer for at leeast 10 minutes. Taste the broth - if it's still too watery, simmer a bit longer."
+    "Boil 2 quarts of water in a pot. Chop the onion and pepper, and add them to the boiling water along with the salt. Simmer for five minutes.",
+    "Add the smelts to the pot along with the coconut milk. Continue to simmer for at least 10 minutes. Taste the broth - if it's still too watery, simmer a bit longer."
   ]
 }

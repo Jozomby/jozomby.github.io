@@ -65,9 +65,9 @@ export const fruitSoup = {
     }
   ],
   steps: [
-    "Peel the ginger and cut into medium sized chunks. Break the cinnamon stick into small pieces. In a saucepan, combine the cinnamon, anise seeds, cloves, ginger, almond extract, and passionfruit juice. Bring to a boil over medium-high heeat, then turn off heat, cover, and let sit 1 hour.",
+    "Peel the ginger and cut into medium sized chunks. Break the cinnamon stick into small pieces. In a saucepan, combine the cinnamon, anise seeds, cloves, ginger, almond extract, and passionfruit juice. Bring to a boil over medium-high heat, then turn off heat, cover, and let sit 1 hour.",
     "Strain out the solids and discard. Chill the liquid in the refrigerator until cold, about 2 hours.",
-    "Chop the plum, peel and chop the cucumbere, slice the kiwis in half and scoop the fruit out with a spoon and then chop, and peel and chop the avocado. Toss together with the sugar.",
+    "Chop the plum, peel and chop the cucumber, slice the kiwis in half and scoop the fruit out with a spoon and then chop, and peel and chop the avocado. Toss together with the sugar.",
     "To serve, put some of the fruit mixture in a bowl, then pour the chilled juice over, just enough to not quite cover the fruit."
   ]
 }

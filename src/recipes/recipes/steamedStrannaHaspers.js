@@ -60,10 +60,10 @@ export const steamedStrannaHaspers = {
     }
   ],
   steps: [
-    "Heat the coconut oil in a pan over medium-high heat. Dice the onion and add it to the pan. Cook until transaparent but not yet browned.",
+    "Heat the coconut oil in a pan over medium-high heat. Dice the onion and add it to the pan. Cook until transparent but not yet browned.",
     "Peel and mince the garlic and ginger. Add to the pan, then cook and stir 2 minutes more. Add curry paste and cook and stir until combined.",
-    "Add coconut milk, water, turmeric, and gochu garu. Cook and stir until combined.",
-    "If using fresh mussels, clean and debeard them. Add the mussels. Stir together until all musseels have been coated in sauce.",
+    "Add coconut milk, water, turmeric, and gochugaru. Cook and stir until combined.",
+    "If using fresh mussels, clean and debeard them. Add the mussels. Stir together until all mussels have been coated in sauce.",
     "Cover and simmer over medium heat. If using fresh mussels, simmer until the mussels open. If using frozen mussels, once the steam starts simmer for the amount of time directed on the package (about 4 minutes). While steaming, swirl the pan around occasionally to continue to coat mussels with sauce.",
     "Serve with flatbread. Any of the flatbread recipes here, or purchased corn tortillas."
   ]

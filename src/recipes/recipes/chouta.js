@@ -138,12 +138,12 @@ export const chouta = {
   steps: [
     "For the gravy, melt the coconut oil in a frying pan over low heat. Add the 2 diced onions and 1 tsp salt. Continue cooking, stirring occasionally, for 30-45 minutes or until golden brown.",
     "Meanwhile, for the flangria option, combine the Spam, 2 cloves garlic, 1/2 onion, 1/2 tsp coriander and 1/2 tsp cumin in a food processor. Process until combined. Knead in 3/4 cup Maseca. Form into 1 inch balls. Set aside.",
-    "For the cremling claws option, defrost and clean 4 shoft shell crabs. Rinse the crabs, then pat dry. Dip in 1/2 cup Maseca to coat.",
-    "For both flangria and cremling claws options, combine 1/2 cup maeca and 1 cup water to form a batter. Coat the flanggria balls or crabs in batter, then deep fry at 350 derees farenheit. Flangria - fry gently. If they lose their coating they'll fall apart. Cook until golden brown. Cremling claws - fry, flipping a few times, until golden on both sides.",
+    "For the cremling claws option, defrost and clean 4 soft shell crabs. Rinse the crabs, then pat dry. Dip in 1/2 cup maseca to coat.",
+    "For both flangria and cremling claws options, combine 1/2 cup maeca and 1 cup water to form a batter. Coat the flangria balls or crabs in batter, then deep fry at 350 degrees Fahrenheit. Flangria - fry gently. If they lose their coating they'll fall apart. Cook until golden brown. Cremling claws - fry, flipping a few times, until golden on both sides.",
     "For the bread, combine 2 cups maseca and 1 1/2 cups water. Knead well. If it's too dry, knead in a little more water. You should be able to press a ball of dough into a thick disk without the edges cracking.",
     "Form 1/2 cup of dough into a ball. Place between two sheets of parchment paper, then roll into a 8 inch circle. Cook on a griddle or dry pan over medium high heat, flipping once. Both sides should have just a couple spots of brown. Repeat with the rest of the dough.",
     "One at a time, fry the bread in 350 degree oil, flipping once, for not too long. The bread should puff and stiffen, but not get crispy.",
-    "For the gravy, once the onions are browned, add 1/2 tsp garam masala, 1/2 tsp cumin, 1/2 tsp coriander, and the 4 cloves minced garlic. Cook 2 minutes over medium-high heat. Add 2 cups water and 2 Tbsp oyster sauce, then bring to a boil. In a separate small container, combine 1/2 cup water and 3 tbsp corn startch, mix well.  Add to onion mixture, then cook and stir until thickened.",
+    "For the gravy, once the onions are browned, add 1/2 tsp garam masala, 1/2 tsp cumin, 1/2 tsp coriander, and the 4 cloves minced garlic. Cook 2 minutes over medium-high heat. Add 2 cups water and 2 Tbsp oyster sauce, then bring to a boil. In a separate small container, combine 1/2 cup water and 3 tbsp corn starch, mix well.  Add to onion mixture, then cook and stir until thickened.",
     "To assemble chouta, take a piece of bread, place 4 flangria balls in a line (or 1 crab). Cover with a few spoonfuls of gravy, then wrap bread closed. Wrap in parchment paper if desired."
   ]
 }

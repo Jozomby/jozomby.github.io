@@ -18,7 +18,7 @@ export const About = memo(() => {
             <a href="https://www.brandonsanderson.com/hello-my-names-brandon/">
               Brandon's website
             </a>{" "}
-            for recommendataions for where to start reading.
+            for recommendations for where to start reading.
           </p>
           <p>
             While others have created recipes inspired by the Stormlight

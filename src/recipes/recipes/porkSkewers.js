@@ -215,17 +215,17 @@ export const porkSkewers = {
     }
   ],
   steps: [
-    "Prepare the marinade. Add 6 cloves garlic, 2 inches peeled ginger, 1 onion, 1/4 cup gochu garu, 2 tbsp coconut oil, 1/2 tsp turmeric, 1/2 tsp coriander, 1 tsp cumin, 1 tsp garam masala, 1 tsp salt, 2 tbsp lemon juice, 1/2 cup yogurt, and 1/2 cup water to a food processor. Process to a somewhat chunky liquid.",
+    "Prepare the marinade. Add 6 cloves garlic, 2 inches peeled ginger, 1 onion, 1/4 cup gochugaru, 2 tbsp coconut oil, 1/2 tsp turmeric, 1/2 tsp coriander, 1 tsp cumin, 1 tsp garam masala, 1 tsp salt, 2 tbsp lemon juice, 1/2 cup yogurt, and 1/2 cup water to a food processor. Process to a somewhat chunky liquid.",
     "Chop the pork loin into large 2 inch cubes, removing the worst of the fat. Add the pork and the marinade to a ziploc bag, remove as much air as possible, then seal and let sit in the refrigerator for 1 to 24 hours.",
     "1 to 2 hours before cooking the pork, prepare the vegetables. Cut 2 onions and 3 bell peppers in 2 inch chunks, and slice 2 yellow squash into 1/2 inch slices. Add them to the marinade along with the pork. Reseal and let sit in the refrigerator 1 to 2 hours.",
-    "Skewer the meat and the vegetables on separate skewers. I prefer metal skewers, but wood/bamboo works as well. If using wood or bamboo, soak the skeweers in water for 15 minutes first. Space the chunks such that they're not quite touching.",
-    "Place all skewers on the grill, and grill at about 375 degrees Farenheit for 10 minutes, turning once, or until vegetables are tender and start to blacken on the edges. Remove the vegetable skewers and keep warm. Continue to cook the pork skewers until a meat thermometer registers 145 degrees inside the pork.",
+    "Skewer the meat and the vegetables on separate skewers. I prefer metal skewers, but wood/bamboo works as well. If using wood or bamboo, soak the skewers in water for 15 minutes first. Space the chunks such that they're not quite touching.",
+    "Place all skewers on the grill, and grill at about 375 degrees Fahrenheit for 10 minutes, turning once, or until vegetables are tender and start to blacken on the edges. Remove the vegetable skewers and keep warm. Continue to cook the pork skewers until a meat thermometer registers 145 degrees inside the pork.",
     "Meanwhile, prepare the sauces.",
     "Savory sauce: Whisk together all ingredients",
     "Sour sauce: Whisk together all ingredients",
     "Oil sauce: Melt the coconut oil. Whisk in the rice vinegar. Whisk in the mustard powder. This will help keep the sauce from separating - whisk again when it starts to separate.",
-    "Spicy saucee: Dice the onion, and peel and mince thee ginger and garlic. Heat the oil in a pan, then add the onion, garlic, and ginger, and cook until the onion is transparent but not browned. Add the curry paste and salt. Cook and stir until combined. Add the coconut milk, water, and gochu garu. Cook and stir until combined.",
-    "Fruit sauce: Rmove the pit from the plum. Finely chop the plum or process it in a food processor. Peel and mince the ginger. Add both to a saucepan along with the other ingredients. Simmer on medium, covered, stirring occasionally, until everything comes together and forms a sauce.",
-    "Servee the vegetable and meat skewers with flatbread and dipping sauces"
+    "Spicy sauce: Dice the onion, and peel and mince thee ginger and garlic. Heat the oil in a pan, then add the onion, garlic, and ginger, and cook until the onion is transparent but not browned. Add the curry paste and salt. Cook and stir until combined. Add the coconut milk, water, and gochugaru. Cook and stir until combined.",
+    "Fruit sauce: Remove the pit from the plum. Finely chop the plum or process it in a food processor. Peel and mince the ginger. Add both to a saucepan along with the other ingredients. Simmer on medium, covered, stirring occasionally, until everything comes together and forms a sauce.",
+    "Serve the vegetable and meat skewers with flatbread and dipping sauces"
   ]
 }

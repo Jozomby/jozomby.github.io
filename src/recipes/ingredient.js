@@ -6,7 +6,7 @@ export const info = {
   additives: (
     <>
       I believe it self-evident that modern additives that are used to replicate
-      the effects of other ingredients (ex: xantham gum as a gluten replacement)
+      the effects of other ingredients (ex: xanthan gum as a gluten replacement)
       would not be available on Roshar.
     </>
   ),
@@ -18,7 +18,7 @@ export const info = {
       I've chosen to use avocados for lurnips. We know that lurnips are small
       and green, the flavor is such that they fit well in a sweet soup, and they
       are a staple food in Emul. (The Way of Kings interlude I-7) The fact that
-      they aare a staple food is the hardest requirement, as otherwise there are
+      they are a staple food is the hardest requirement, as otherwise there are
       plenty of green fruits or vegetables that could work. I tried tomatillos,
       but eventually settled on avocados as a good compromise between being
       sweet and having many uses.
@@ -85,7 +85,7 @@ export const info = {
       work, but roots and tubers are mentioned often in the books, and tenem is
       described instead as a vegetable. That indicates to me that it's something
       different. So I chose to use butternut squash - it's the right color, and
-      is delicous when fried.
+      is delicious when fried.
     </>
   ),
   cannedFood: (
@@ -144,7 +144,7 @@ export const info = {
     <>
       Crayfish are the closest thing I can find to a cremling. They're small and
       have just a little bit of meat of them. They seem very similar to skrips,
-      since both have a flat tail, claws, and atennae. (Oathbringer ch 68)
+      since both have a flat tail, claws, and antennae. (Oathbringer ch 68)
     </>
   ),
   cucumber: (
@@ -205,7 +205,7 @@ export const info = {
   fish: (
     <>
       At first I wasn't sure that fish would feature heavily in Rosharan
-      cooking. Shellfish and crusteaceans are mentioned much more frequently,
+      cooking. Shellfish and crustaceans are mentioned much more frequently,
       and most rivers are ephemeral, only running after storms. (For an example,
       see Rhythm of War ch 17) However, when Riino gives Kaladin a can of fish
       (Oathbringer ch 97), he recognizes it immediately as 'fish rations.' This
@@ -267,7 +267,7 @@ export const info = {
   ),
   lemon: (
     <>
-      Lemons are present are roshar. (Oathbringer, Rosharan Wines illustration)
+      Lemons are present on Roshar. (Oathbringer, Rosharan Wines illustration)
     </>
   ),
   maseca: (
@@ -279,7 +279,7 @@ export const info = {
       Mexican-style corn flour has been nixtamalized, though. This process never
       appears in the books, but it is required in order to make flatbread from
       corn. I have made the assumption that either Roshar has access to
-      nixtamalization, or lavis is different enough from corn that it doen't
+      nixtamalization, or lavis is different enough from corn that it doesn't
       require it.
     </>
   ),
@@ -398,7 +398,7 @@ export const info = {
     <>
       I see no reason why seeds, bark, flowers, etc. wouldn't be available on
       Roshar. I have chosen to use whatever spices fit the flavor I'm going for,
-      rather than creating a justification for each individal spice. I did try
+      rather than creating a justification for each individual spice. I did try
       to use similar spices across the recipes, especially in recipes from the
       same or similar cultures, to create cohesiveness in the cuisines.
     </>

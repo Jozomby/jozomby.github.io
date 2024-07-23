@@ -47,7 +47,7 @@ export const stagmAndTallew = {
         },
         {
           item: "gochugaru",
-          display: "2 tbsp gochu garu"
+          display: "2 tbsp gochugaru"
         },
         {
           item: "salt",
@@ -74,7 +74,7 @@ export const stagmAndTallew = {
     "Cook the basmati rice in a rice cooker, with the amount of water directed on the package",
     "Melt coconut oil in a pan over low heat. Dice onions, and to pan, and cook on low until golden, about 45 minutes.",
     "Add garam masala, cumin, cardamom, gochugaru, salt, and minced garlic. Cook and stir over medium high heat for 2 minutes",
-    "Add 2 cups water. Bring to a boil over medium high heat. In a bowl or cup, combinee 2/3 cup wateer and corn starch to make a slurry. Pour the slurry into the pan, whisking as you do so. Cook and stir until thickened.",
+    "Add 2 cups water. Bring to a boil over medium high heat. In a bowl or cup, combine 2/3 cup water and corn starch to make a slurry. Pour the slurry into the pan, whisking as you do so. Cook and stir until thickened.",
     "Serve gravy over rice, with celeriac on thee side. To eat, slice disks off the celeriac and pile with rice and gravy."
   ]
 }

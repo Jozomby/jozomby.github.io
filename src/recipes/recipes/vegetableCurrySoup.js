@@ -82,6 +82,6 @@ export const vegetableCurrySoup = {
     "Add curry paste, honey, cumin, coriander, salt, and turmeric. Cook and stir until combined.",
     "Peel and chop the sweet potato into 3/4 inch cubes. Chop the bell pepper into similar sized pieces. Add the sweet potato and bell pepper to the pan. Cook and stir until the pepper is tender.",
     "Add the coconut milk. Simmer on medium low, covered, 10 minutes or until sweet potatoes are soft.",
-    "Peel and slice the avocado. Ladel the curry into bowls. To each bowl, add 1/4 of the avocado."
+    "Peel and slice the avocado. Ladle the curry into bowls. To each bowl, add 1/4 of the avocado."
   ]
 }

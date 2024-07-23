@@ -10,7 +10,7 @@ export const redPorkCurry = {
   notes:
     "This is the spiciest recipe in the collection. On a scale of 1 to 10, it's a 9. It's possible to get spicier, but not by much. This is based off the spicy pork curry that Adolin gives Shallan when he's talking about the changing gender roles. If you want to make it less spicy, you could try replacing some of the gochugaru with paprika. Take the amount of gochugaru you remove, then use 3/4 of that amount of paprika.",
   quotes:
-    'Adolin... picked out a few chunks of pork from a creamy red curry, then put them on a plate and handed them in her direction... "It would burn my lips off, Adolin Kholin," Shallan said. "Don\'t think I didn\'t notice you picking the absolute spiciest concotion Palona sent." (Oathbringer, ch 13)',
+    'Adolin... picked out a few chunks of pork from a creamy red curry, then put them on a plate and handed them in her direction... "It would burn my lips off, Adolin Kholin," Shallan said. "Don\'t think I didn\'t notice you picking the absolute spiciest concoction Palona sent." (Oathbringer, ch 13)',
   image:
     "https://jozomby-public.s3.amazonaws.com/recipes/pork-curry-overview.jpg",
   ingredientSections: [

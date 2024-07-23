@@ -207,3 +207,28 @@ h2 {
     margin-left: 10px;
   }
 }
+
+
+a:link {
+  color: rgb(61, 187, 210);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(61, 187, 10);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(116, 176, 187);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgb(116, 176, 187);
+  background-color: transparent;
+  text-decoration: underline;
+}

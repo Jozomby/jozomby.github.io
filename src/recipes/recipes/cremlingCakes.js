@@ -90,7 +90,7 @@ export const cremlingCakes = {
     }
   ],
   steps: [
-    "Preheat oven to 400 degrees Farenheit. Grease 6 muffin cups in a muffin tin.",
+    "Preheat oven to 400 degrees Fahrenheit. Grease 6 muffin cups in a muffin tin.",
     "In a medium bowl, combine cornmeal, 1/2 tsp salt, 2 tbsp honey, 2 tbsp oil, and water. Mix well. Some of the liquid may separate from the batter - that's ok.",
     "In a separate bowl, beat egg whites just past stiff peaks, until they're very stiff but liquid hasn't started separating out yet.",
     "Fold the egg whites into the batter just until combined. There will still be white bits visible.",
