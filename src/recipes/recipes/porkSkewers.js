@@ -1,6 +1,6 @@
 export const porkSkewers = {
   id: "porkSkewers",
-  link: "/recipes/recipes/porkSkewers",
+  link: "/#/recipes/recipes/porkSkewers",
   name: "Pork Skewers",
   cuisine: "Alethi Men's Food",
   summary: "Grilled pork and vegetable chunks, served with dipping sauces",

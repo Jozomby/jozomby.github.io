@@ -75,7 +75,7 @@ function Layout() {
             <a
               onClick={e => {
                 e.preventDefault()
-                window.location.href = "/recipes/"
+                window.location.href = "/#/recipes/"
               }}
             >
               Home
@@ -85,7 +85,7 @@ function Layout() {
             <a
               onClick={e => {
                 e.preventDefault()
-                window.location.href = "/recipes/recipes"
+                window.location.href = "/#/recipes/recipes"
               }}
             >
               Recipes
@@ -95,7 +95,7 @@ function Layout() {
             <a
               onClick={e => {
                 e.preventDefault()
-                window.location.href = "/recipes/source"
+                window.location.href = "/#/recipes/source"
               }}
             >
               Source Material
@@ -105,7 +105,7 @@ function Layout() {
             <a
               onClick={e => {
                 e.preventDefault()
-                window.location.href = "/recipes/about"
+                window.location.href = "/#/recipes/about"
               }}
             >
               About

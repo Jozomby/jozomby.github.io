@@ -1,6 +1,6 @@
 export const steamedStrannaHaspers = {
   id: "steamedStrannaHaspers",
-  link: "/recipes/recipes/steamedStrannaHaspers",
+  link: "/#/recipes/recipes/steamedStrannaHaspers",
   name: "Steamed Stranna Haspers",
   cuisine: "Alethi Men's Food",
   summary: "Steamed mussels with a spicy curry sauce",

@@ -13,7 +13,7 @@ export const Home = memo(() => {
       <RecipeCard id="berryCake" />
       <RecipeCard id="thaylenBread" />
       <br />
-      <p>See the <a href="/recipes/recipes">recipes page</a> for more</p>
+      <p>See the <a href="/#/recipes/recipes">recipes page</a> for more</p>
     </div>
   )
 })

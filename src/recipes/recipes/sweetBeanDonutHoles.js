@@ -1,6 +1,6 @@
 export const sweetBeanDonutHoles = {
   id: "sweetBeanDonutHoles",
-  link: "/recipes/recipes/sweetBeanDonutHoles",
+  link: "/#/recipes/recipes/sweetBeanDonutHoles",
   name: "Sweet Bean Donut Holes",
   cuisine: "Alethi",
   summary:

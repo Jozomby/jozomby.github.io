@@ -1,6 +1,6 @@
 export const thaylenBread = {
   id: "thaylenBread",
-  link: "/recipes/recipes/thaylenBread",
+  link: "/#/recipes/recipes/thaylenBread",
   name: "Thaylen Bread",
   cuisine: "Thaylen",
   summary: "A rustic, whole wheat, free-form loaf.",

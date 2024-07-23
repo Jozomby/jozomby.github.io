@@ -1,6 +1,6 @@
 export const fruitedRice = {
   id: "fruitedRice",
-  link: "/recipes/recipes/fruitedRice",
+  link: "/#/recipes/recipes/fruitedRice",
   name: "Fruited Rice",
   cuisine: "Alethi women's food",
   summary: "Spiced rice with dried fruit and nuts",

@@ -1,6 +1,6 @@
 export const sweetBeanFlatbread = {
   id: "sweetBeanFlatbread",
-  link: "/recipes/recipes/sweetBeanFlatbread",
+  link: "/#/recipes/recipes/sweetBeanFlatbread",
   name: "Sweet Bean Flatbread",
   cuisine: "Alethi",
   summary: "Corn-based flatbread filled with a thin layer of sweet bean paste",

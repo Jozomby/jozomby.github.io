@@ -1,6 +1,6 @@
 export const fruitSoup = {
   id: "fruitSoup",
-  link: "/recipes/recipes/fruitSoup",
+  link: "/#/recipes/recipes/fruitSoup",
   name: "Fruit Soup",
   cuisine: "Kharbranthian",
   summary: "A cold juice-based broth with fresh fruits",

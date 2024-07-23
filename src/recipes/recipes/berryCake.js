@@ -1,6 +1,6 @@
 export const berryCake = {
   id: "berryCake",
-  link: "/recipes/recipes/berryCake",
+  link: "/#/recipes/recipes/berryCake",
   name: "Berry Cake",
   cuisine: "Azish",
   summary: "A yeasted cake with berries",

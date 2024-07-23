@@ -1,6 +1,6 @@
 export const fluffyPancakes = {
   id: "fluffyPancakes",
-  link: "/recipes/recipes/fluffyPancakes",
+  link: "/#/recipes/recipes/fluffyPancakes",
   name: "Fluffy Pancakes",
   cuisine: "Tashikki",
   summary: "Small pancakes with a cinnamon honey sauce",

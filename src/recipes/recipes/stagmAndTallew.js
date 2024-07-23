@@ -1,6 +1,6 @@
 export const stagmAndTallew = {
   id: "stagmAndTallew",
-  link: "/recipes/recipes/stagmAndTallew",
+  link: "/#/recipes/recipes/stagmAndTallew",
   name: "Stagm and Tallew",
   cuisine: "Alethi Men's Food",
   summary: "Gravy over rice, served with celery root on the side",

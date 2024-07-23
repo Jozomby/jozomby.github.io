@@ -1,6 +1,6 @@
 export const mashedSweetPotatoes = {
   id: "mashedSweetPotatoes",
-  link: "/recipes/recipes/mashedSweetPotatoes",
+  link: "/#/recipes/recipes/mashedSweetPotatoes",
   name: "Mashed Sweet Potatoes",
   cuisine: "Azish",
   summary: "Creamy and coconutty mashed purple sweet potatoes",

@@ -1,6 +1,6 @@
 export const redPorkCurry = {
   id: "redPorkCurry",
-  link: "/recipes/recipes/redPorkCurry",
+  link: "/#/recipes/recipes/redPorkCurry",
   name: "Red Pork Curry",
   cuisine: "Alethi men's food",
   summary: "Pork chunks in a very spicy red curry",
@@ -90,7 +90,7 @@ export const redPorkCurry = {
           display: (
             <>
               1 recipe{" "}
-              <a href="/recipes/recipes/lavisFlatbreadPocket">
+              <a href="/#/recipes/recipes/lavisFlatbreadPocket">
                 lavis flatbread pockets
               </a>{" "}
               -OR- other flatbread, such as corn tortillas. Optional

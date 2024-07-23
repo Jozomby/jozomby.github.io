@@ -1,6 +1,6 @@
 export const chouta = {
   id: "chouta",
-  link: "/recipes/recipes/chouta",
+  link: "/#/recipes/recipes/chouta",
   name: "Chouta",
   cuisine: "Herdazian",
   summary:

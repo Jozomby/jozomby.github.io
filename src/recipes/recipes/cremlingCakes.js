@@ -1,6 +1,6 @@
 export const cremlingCakes = {
   id: "cremlingCakes",
-  link: "/recipes/recipes/cremlingCakes",
+  link: "/#/recipes/recipes/cremlingCakes",
   name: "Cremling Cakes",
   cuisine: "Alethi",
   summary: "Cornbread muffins topped with coconut curry sauce and crayfish",

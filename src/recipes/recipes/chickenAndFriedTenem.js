@@ -1,6 +1,6 @@
 export const chickenAndFriedTenem = {
   id: "chickenAndFriedTenem",
-  link: "/recipes/recipes/chickenAndFriedTenem",
+  link: "/#/recipes/recipes/chickenAndFriedTenem",
   name: "Chicken and Fried Tenem",
   cuisine: "Alethi Men's Food",
   summary: "Deep fried butternut squash with chicken medallions and pan sauce",

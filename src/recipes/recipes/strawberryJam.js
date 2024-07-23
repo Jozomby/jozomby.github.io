@@ -1,6 +1,6 @@
 export const strawberryJam = {
   id: "strawberryJam",
-  link: "/recipes/recipes/strawberryJam",
+  link: "/#/recipes/recipes/strawberryJam",
   name: "Strawberry Jam",
   cuisine: "Shin",
   summary: "Exotic on Roshar, this is normal for us.",

@@ -1,6 +1,6 @@
 export const vegetableCurrySoup = {
   id: "vegetableCurrySoup",
-  link: "/recipes/recipes/vegetableCurrySoup",
+  link: "/#/recipes/recipes/vegetableCurrySoup",
   name: "Vegetable Curry Soup",
   cuisine: "Alethi Women's Food",
   summary: "A sweet coconut curry, served as a soup",

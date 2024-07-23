@@ -1,6 +1,6 @@
 export const exampleRecipe = {
   id: "name",
-  link: "/recipes/recipes/name",
+  link: "/#/recipes/recipes/name",
   name: "Name",
   cuisine: "Rosharan",
   summary: "Visible summary",

@@ -1,6 +1,6 @@
 export const rocksStew = {
   id: "rocksStew",
-  link: "/recipes/recipes/rocksStew",
+  link: "/#/recipes/recipes/rocksStew",
   name: "Rock's Stew",
   cuisine: "Horneater-Alethi Fusion",
   summary: "Hearty, root-vegetable filled stew with seafood",

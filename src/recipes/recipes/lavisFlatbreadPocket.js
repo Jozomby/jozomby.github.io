@@ -1,6 +1,6 @@
 export const lavisFlatbreadPocket = {
   id: "lavisFlatbreadPocket",
-  link: "/recipes/recipes/lavisFlatbreadPocket",
+  link: "/#/recipes/recipes/lavisFlatbreadPocket",
   name: "Lavis Flatbread Pockets",
   cuisine: "General",
   summary:

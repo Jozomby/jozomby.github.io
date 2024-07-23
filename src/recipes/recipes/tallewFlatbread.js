@@ -1,6 +1,6 @@
 export const tallewFlatbread = {
   id: "tallewFlatbread",
-  link: "/recipes/recipes/tallewFlatbread",
+  link: "/#/recipes/recipes/tallewFlatbread",
   name: "Tallew Flatbread",
   cuisine: "General",
   summary: "Thin flatbread, good for curries and sauce-covered dishes.",

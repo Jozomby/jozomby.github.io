@@ -1,6 +1,6 @@
 export const fishSoup = {
   id: "fishSoup",
-  link: "/recipes/recipes/fishSoup",
+  link: "/#/recipes/recipes/fishSoup",
   name: "Fish Soup",
   cuisine: "Purelaker",
   summary: "A thin soup made with coconut milk and fish",
