@@ -205,9 +205,9 @@ export const info = {
   fish: (
     <>
       At first I wasn't sure that fish would feature heavily in Rosharan
-      cooking. Shellfish and crustaceans are mentioned much more frequently,
-      and most rivers are ephemeral, only running after storms. (For an example,
-      see Rhythm of War ch 17) However, when Riino gives Kaladin a can of fish
+      cooking. Shellfish and crustaceans are mentioned much more frequently, and
+      most rivers are ephemeral, only running after storms. (For an example, see
+      Rhythm of War ch 17) However, when Riino gives Kaladin a can of fish
       (Oathbringer ch 97), he recognizes it immediately as 'fish rations.' This
       indicates not only that Kaladin is familiar with fish, but that it's used
       as soldier rations. I therefore conclude that fish must be at least
@@ -485,9 +485,32 @@ export const Ingredient = memo(({ ingredient }) => {
   if (!ingredientInfo) {
     return <p>{ingredient.display}</p>
   }
+  console.log(ingredientInfo)
+  let numberWords = 0
+  const ingredientInfoPieces = ingredientInfo.props.children
+  if (typeof ingredientInfoPieces === "string") {
+    numberWords = ingredientInfoPieces.split(" ").length
+  } else {
+    numberWords = ingredientInfoPieces.reduce((accumulator, piece) => {
+        if (typeof piece === "string") {
+            return accumulator + piece.split(" ").length
+        } else {
+            if (typeof piece?.props?.children === "string") {
+                return accumulator + piece.props.children.split(" ").length
+            } else {
+                return accumulator + 3
+            }
+        }
+      }, 0)
+  }
+  console.log(numberWords)
   return (
     <>
-      <Tooltip title={<p style={{ fontSize: "14px" }}>{ingredientInfo}</p>}>
+      <Tooltip
+        title={<p style={{ fontSize: "14px" }}>{ingredientInfo}</p>}
+        enterTouchDelay={0}
+        leaveTouchDelay={(numberWords / 5) * 1000}
+      >
         <p className="underlinedIngredient">{ingredient.display}</p>
       </Tooltip>
     </>

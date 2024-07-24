@@ -1,4 +1,4 @@
-import { memo, useState } from "react"
+import { memo, useEffect, useState } from "react"
 import { Ingredient } from "./ingredient"
 import { Button, Collapse } from "@mui/material"
 import "./recipe.css"
@@ -7,6 +7,12 @@ export const Recipe = memo(({ id }) => {
   const recipeInfoModule = require(`./recipes/${id}`)
   const recipeInfo = recipeInfoModule[id]
   const [notesOpen, setNotesOpen] = useState(false)
+
+  useEffect(() => {
+    // Scroll to the top when the component mounts
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
     <div className="content">
       <div className="centered">

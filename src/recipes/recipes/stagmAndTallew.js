@@ -75,6 +75,6 @@ export const stagmAndTallew = {
     "Melt coconut oil in a pan over low heat. Dice onions, and to pan, and cook on low until golden, about 45 minutes.",
     "Add garam masala, cumin, cardamom, gochugaru, salt, and minced garlic. Cook and stir over medium high heat for 2 minutes",
     "Add 2 cups water. Bring to a boil over medium high heat. In a bowl or cup, combine 2/3 cup water and corn starch to make a slurry. Pour the slurry into the pan, whisking as you do so. Cook and stir until thickened.",
-    "Serve gravy over rice, with celeriac on thee side. To eat, slice disks off the celeriac and pile with rice and gravy."
+    "Serve gravy over rice, with celeriac on the side. To eat, slice disks off the celeriac and pile with rice and gravy."
   ]
 }
