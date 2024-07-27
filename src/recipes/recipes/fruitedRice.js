@@ -23,11 +23,11 @@ export const fruitedRice = {
         },
         {
           item: "almond",
-          display: "1/4 cup slivered almonds"
+          display: "1/4 cup sliced or slivered almonds"
         },
         {
           item: "onion",
-          display: "1 small onion"
+          display: "1/2 onion"
         },
         {
           item: "coconut",
@@ -43,11 +43,11 @@ export const fruitedRice = {
         },
         {
           item: "cumin",
-          display: "1/2 tsp cumin"
+          display: "1/2 tsp ground cumin"
         },
         {
           item: "turmeric",
-          display: "1/2 tsp turmeric"
+          display: "1/2 tsp ground turmeric"
         },
         {
           item: "garlicClove",
@@ -55,7 +55,7 @@ export const fruitedRice = {
         },
         {
           item: "salt",
-          display: "3/4 tsp salt"
+          display: "1 tsp salt"
         },
         {
           item: "water",
@@ -72,7 +72,7 @@ export const fruitedRice = {
   steps: [
     "Wash the rice until the water runs clear. Set aside to drain in a mesh strainer.",
     "Spread almonds in a single layer in a pot over medium heat. Toast and stir until browned. Set aside.",
-    "Add the coconut oil to the pot, then dice the onion and add it to the pan. Saute until soft but not browned.",
+    "Add the coconut oil to the pot, then dice the onion and add it to the pan. Saute until translucent.",
     "Add anise seeds, coriander seeds, cumin, turmeric, garlic and salt to the onions. Cook and stir for a minute.",
     "Add the drained rice to the pot. Cook and stir until it begins to sizzle, then cook and stir 3 minutes more.",
     "Add 2 1/2 cups water and the chopped dried fruit. Bring to a boil. Reduce heat to very low and cover. Let sit 25 minutes.",
