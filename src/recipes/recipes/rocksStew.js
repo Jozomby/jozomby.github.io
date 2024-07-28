@@ -3,12 +3,13 @@ export const rocksStew = {
   link: "/#/recipes/recipes/rocksStew",
   name: "Rock's Stew",
   cuisine: "Horneater-Alethi Fusion",
-  summary: "Hearty, root-vegetable and seafood filled stew with a roasted red pepper base",
+  summary:
+    "Hearty, root-vegetable and seafood filled stew with a roasted red pepper base",
   inspiration: "Fish Solyanka",
   quantity: "6 servings",
   time: "2 hours",
   notes:
-    "Since one of the earth cultures that inspired the Horneaters is Russian, I looked to examples of Russian seafood stew and found fish solyanka. I took it quite a different direction from there. I chose to use roasted red peppers for the base because I've decided not to use tomatoes for any of these recipes, and I wanted something that would bring color and flavor. Given the prevalence of spicy food on Roshar, peppers seem to be available. I included burdock root as an analogue for longroot, since it was specifically mentioned as being included in one of Rock's stews. (Oathbringer ch 37) For the rest of the vegetables, I used things that I identified as being available on Roshar - turnips for curnips, butternut squash for tenem, and sweet potatoes. Rock used finger crabs in one of his stews, and shrimp seemed like a good choice for that. Finally, he mentioned adding crushed limm. (Oathbringer ch 37) We don't know anything about the flavor of limm, so rather than pick a real-world analogue I just made sure to include some ground spices.",
+    "Since one of the earth cultures that inspired the Horneaters is Russian, I looked to examples of Russian seafood stew and found fish solyanka. I took it quite a different direction from there. I chose to use roasted red peppers for the base because I've decided not to use tomatoes for any of these recipes, and I wanted something that would bring color and flavor. Chili peppers appear to be available on Roshar, (The Sunlit Man ch 15) so red bell peppers should be available. I included burdock root as an analogue for longroot, since it was specifically mentioned as being included in one of Rock's stews. (Oathbringer ch 37) For the rest of the vegetables, I used things that I identified as being available on Roshar - turnips for curnips, butternut squash for tenem, and sweet potatoes. Rock used finger crabs in one of his stews, and shrimp seemed like a good choice for that. Finally, he mentioned adding crushed limm. (Oathbringer ch 37) We don't know anything about the flavor of limm, so rather than pick a real-world analogue I just made sure to include some ground spices.",
   quotes:
     '"You ever known any[one] who could turn down a warm fire and some stew at the end of a hard day?" (The Way of Kings ch 27)',
   image:

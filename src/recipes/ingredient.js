@@ -46,9 +46,10 @@ export const info = {
   ),
   bellPepper: (
     <>
-      Since spicy food is available on Roshar, I've chosen to believe that
-      peppers are used for that purpose. If hot peppers are available, bell
-      peppers should be as well.
+      Spicy food is available on Roshar, and they seem to get the heat from
+      chili peppers. (The Sunlit Man ch 15) If hot peppers are available, bell
+      peppers should be as well, since they're simply a variety that has been
+      bred to have no capsaicin.
     </>
   ),
   blueberries: (
@@ -252,8 +253,8 @@ export const info = {
   ),
   hotPeppers: (
     <>
-      Given the prevalence of spicy food on Roshar, I feel comfortable assuming
-      hot peppers are available.
+      Spicy food is available on Roshar, and they seem to get the heat from
+      chili peppers. (The Sunlit Man ch 15)
     </>
   ),
   kiwi: (
@@ -492,16 +493,16 @@ export const Ingredient = memo(({ ingredient }) => {
     numberWords = ingredientInfoPieces.split(" ").length
   } else {
     numberWords = ingredientInfoPieces.reduce((accumulator, piece) => {
-        if (typeof piece === "string") {
-            return accumulator + piece.split(" ").length
+      if (typeof piece === "string") {
+        return accumulator + piece.split(" ").length
+      } else {
+        if (typeof piece?.props?.children === "string") {
+          return accumulator + piece.props.children.split(" ").length
         } else {
-            if (typeof piece?.props?.children === "string") {
-                return accumulator + piece.props.children.split(" ").length
-            } else {
-                return accumulator + 3
-            }
+          return accumulator + 3
         }
-      }, 0)
+      }
+    }, 0)
   }
   console.log(numberWords)
   return (
