@@ -19,7 +19,7 @@ export const mashedSweetPotatoes = {
       ingredients: [
         {
           item: "sweetPotato",
-          display: "2 lbs sweet potatoes"
+          display: "2 lbs purple sweet potatoes"
         },
         {
           item: "onion",
@@ -52,6 +52,7 @@ export const mashedSweetPotatoes = {
     "Fill a pot half full of water and bring to a boil over high heat. Peel and chop the sweet potatoes. Add to the water and boil until soft.",
     "Dice the onion. Peel and mince the garlic and ginger. Heat the coconut oil in a pan over medium heat. Add the onions, garlic, and ginger to the pan and saute until the onions are mostly transparent but not yet browning.",
     "Add the coconut milk and salt to the pan. Cook and stir until heated through.",
-    "Once the sweet potatoes are cooked, drain the water. Add the coconut milk mixture to the potatoes, then mash thoroughly. Serve warm."
+    "Once the sweet potatoes are cooked, drain the water. Add the coconut milk mixture to the potatoes, then mash thoroughly.",
+    "Add additional coconut milk a little at a time, mixing well, until it reaches a consistency that you like. I prefer it thick, so I only add a tablespoon or two. Serve warm."
   ]
 }
