@@ -9,7 +9,7 @@ export const sweetBeanDonutHoles = {
   quantity: "20",
   time: "30 minutes",
   notes:
-    "Pastries are mentioned in the books, but we don't get many details. So I took what I had available to mee and tried to figure out what pastries would naturally follow. We know the Alethi have flatbread filled with sweet bean paste (Words of Radiance ch 59), and deep frying is a known cooking method, so these donuts holes seemed a good guess.",
+    "Pastries are mentioned in the books, but we don't get many details. So I took what I had available to me and tried to figure out what pastries would naturally follow. We know the Alethi have flatbread filled with sweet bean paste (Words of Radiance ch 59), and deep frying is a known cooking method, so these donuts holes seemed a good guess.",
   quotes:
     "Tables lined the walkway here, piled with food. Candied meats, stacks of flatbread crusted with sugar, fruits and pastries. (Oathbringer, ch 78)",
   image:

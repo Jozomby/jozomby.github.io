@@ -56,6 +56,37 @@ export const RecipesRoutes = (
       />
       <Route path="stagmAndTallew" element={<Recipe id={"stagmAndTallew"} />} />
       <Route path="fishSoup" element={<Recipe id={"fishSoup"} />} />
+      <Route path="shiki" element={<Recipe id={"shiki"} />} />
+      <Route
+        path="lavisPastrySquares"
+        element={<Recipe id={"lavisPastrySquares"} />}
+      />
+      <Route
+        path="simberriesAndCreamPastry"
+        element={<Recipe id={"simberriesAndCreamPastry"} />}
+      />
+      <Route
+        path="nutsAndHoneyPastry"
+        element={<Recipe id={"nutsAndHoneyPastry"} />}
+      />
+      <Route path="coconutCustard" element={<Recipe id={"coconutCustard"} />} />
+      <Route path="bluebarJam" element={<Recipe id={"bluebarJam"} />} />
+      <Route
+        path="sugaredMashedBeans"
+        element={<Recipe id={"sugaredMashedBeans"} />}
+      />
+      <Route path="clemabread" element={<Recipe id={"clemabread"} />} />
+      <Route
+        path="vegetablePancakes"
+        element={<Recipe id={"vegetablePancakes"} />}
+      />
+      <Route path="kuma" element={<Recipe id={"kuma"} />} />
+      <Route path="lavisFlatbread" element={<Recipe id={"lavisFlatbread"} />} />
+      <Route
+        path="chickenAndMethiFruit"
+        element={<Recipe id={"chickenAndMethiFruit"} />}
+      />
+      <Route path="dinnerRolls" element={<Recipe id={"dinnerRolls"} />} />
     </Route>
     <Route path="source" element={<SourceMaterial />} />
     <Route path="about" element={<About />} />

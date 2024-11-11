@@ -24,7 +24,7 @@ export const About = memo(() => {
             While others have created recipes inspired by the Stormlight
             Archive, I've attempted something different here. I've done my best
             to recreate the exact dishes mentioned in the books, as closely as
-            is possible with the ingredients we have on Earth.
+            is possible with the ingredients we have on earth.
           </p>
           <p>This was my approach:</p>
           <ul>

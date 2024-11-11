@@ -5,7 +5,7 @@ export const fruitedRice = {
   cuisine: "Alethi women's food",
   summary: "Spiced rice with dried fruit and nuts",
   inspiration: "Pilaf",
-  quantity: "5",
+  quantity: "4 servings",
   time: "1 hour",
   notes:
     "This recipe was one of our favorites. I chose basmati rice (as opposed to other varieties, such as short grain) to go with the other Indian influences in Alethi food. You can use whatever dried fruit you have on hand. Just try and avoid fruit that's been candied, crystallized, or otherwise covered in sugar. I chose kiwi for scalespray fruit, prunes (dried plums) for palafruit, and then apricots and dates as additional fruit that seemed to fit. For the kiwi, I wasn't able to find a store selling dried kiwi that wasn't covered in sugar. Instead I dehydrated it myself - if you don't have access to a dehydrator, you can do this in your oven at low temperatures for a long time.",
@@ -22,7 +22,7 @@ export const fruitedRice = {
           display: "1 1/2 cups basmati rice"
         },
         {
-          item: "almond",
+          item: "nuts",
           display: "1/4 cup sliced or slivered almonds"
         },
         {

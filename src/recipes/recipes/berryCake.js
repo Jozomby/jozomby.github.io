@@ -18,7 +18,7 @@ export const berryCake = {
       title: "Cake",
       ingredients: [
         {
-          item: "butter",
+          item: "dairy",
           display: "2/3 cup butter, softened"
         },
         {

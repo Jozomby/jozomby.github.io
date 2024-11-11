@@ -9,7 +9,8 @@ export const fruitSoup = {
   time: "15 minutes preparation, 3 hours chilling",
   notes:
     "Fruit soup is one of the stranger things I decided to make from the books. I decided to go for a cold soup - really more of a fruit salad with juice. I picked fruits that I could trace back to the books, and I'm happy with how it came out.",
-  quotes: "...a clear, cold stew with sweet vegetables for the women (The Way of Kings ch 29)",
+  quotes:
+    "...a clear, cold stew with sweet vegetables for the women (The Way of Kings ch 29)",
   image:
     "https://jozomby-public.s3.amazonaws.com/recipes/fruit-soup-overview.jpg",
   ingredientSections: [
@@ -33,7 +34,7 @@ export const fruitSoup = {
           display: "1 inch ginger root"
         },
         {
-          item: "almond",
+          item: "nuts",
           display: "1/8 tsp almond extract"
         },
         {

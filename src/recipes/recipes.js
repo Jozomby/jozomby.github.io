@@ -15,19 +15,40 @@ export const Recipes = memo(() => {
             <RecipeLine id="chickenAndFriedTenem" />
           </li>
           <li>
+            <RecipeLine id="chickenAndMethiFruit" />
+          </li>
+          <li>
             <RecipeLine id="cremlingCakes" />
+          </li>
+          <li>
+            <RecipeLine id="coconutCustard" />
           </li>
           <li>
             <RecipeLine id="fruitedRice" />
           </li>
           <li>
+            <RecipeLine id="kuma" />
+          </li>
+          <li>
+            <RecipeLine id="lavisFlatbread" />
+          </li>
+          <li>
             <RecipeLine id="lavisFlatbreadPocket" />
+          </li>
+          <li>
+            <RecipeLine id="lavisPastrySquares" />
+          </li>
+          <li>
+            <RecipeLine id="nutsAndHoneyPastry" />
           </li>
           <li>
             <RecipeLine id="porkSkewers" />
           </li>
           <li>
             <RecipeLine id="redPorkCurry" />
+          </li>
+          <li>
+            <RecipeLine id="simberriesAndCreamPastry" />
           </li>
           <li>
             <RecipeLine id="stagmAndTallew" />
@@ -56,6 +77,9 @@ export const Recipes = memo(() => {
             <RecipeLine id="berryCake" />
           </li>
           <li>
+            <RecipeLine id="dinnerRolls" />
+          </li>
+          <li>
             <RecipeLine id="mashedSweetPotatoes" />
           </li>
         </ul>
@@ -73,6 +97,12 @@ export const Recipes = memo(() => {
         <ul>
           <li>
             <RecipeLine id="rocksStew" />
+          </li>
+          <li>
+            <RecipeLine id="shiki" />
+          </li>
+          <li>
+            <RecipeLine id="sugaredMashedBeans" />
           </li>
         </ul>
       </div>
@@ -104,7 +134,13 @@ export const Recipes = memo(() => {
         <h2>Tashikk</h2>
         <ul>
           <li>
+            <RecipeLine id="clemabread" />
+          </li>
+          <li>
             <RecipeLine id="fluffyPancakes" />
+          </li>
+          <li>
+            <RecipeLine id="vegetablePancakes" />
           </li>
         </ul>
       </div>
@@ -113,6 +149,14 @@ export const Recipes = memo(() => {
         <ul>
           <li>
             <RecipeLine id="thaylenBread" />
+          </li>
+        </ul>
+      </div>
+      <div className="recipeCountrySection">
+        <h2>Unknown</h2>
+        <ul>
+          <li>
+            <RecipeLine id="bluebarJam" />
           </li>
         </ul>
       </div>

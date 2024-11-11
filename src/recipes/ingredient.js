@@ -10,9 +10,6 @@ export const info = {
       would not be available on Roshar.
     </>
   ),
-  almond: (
-    <>Nuts are mentioned in the Rosharan Wines illustration in Oathbringer.</>
-  ),
   avocado: (
     <>
       I've chosen to use avocados for lurnips. We know that lurnips are small
@@ -178,6 +175,21 @@ export const info = {
       something mostly only available to the wealthy.
     </>
   ),
+  dashi: (
+    <>
+      Dashi is simply Japanese-style bonito (fish) stock. You could replace with
+      any other seafood stock if you wish. We know Rosharans do eat fish
+      (Oathbringer ch 97), so fish stock should be available as well.
+      Personally, I buy hon dashi (dried bonito stock granules) and use it to
+      make dashi at 1 tsp hon dashi to 1 cup water.
+    </>
+  ),
+  driedBeans: (
+    <>
+      Bean paste is available on Roshar (Words of Radiance ch 59) so beans
+      should be as well.
+    </>
+  ),
   eggs: (
     <>
       I tried to avoid using eggs. I really did. Chicken eggs would not be
@@ -223,6 +235,14 @@ export const info = {
       </a>
     </>
   ),
+  gelatin: (
+    <>
+      Gelatin on earth is an ancient ingredient made from animal tissues. I see
+      no reason it wouldn't be available on Roshar as well. Obviously the
+      convenient powdered form is a modern invention, but it seems reasonable to
+      take that shortcut since it's still the same basic ingredient.
+    </>
+  ),
   glutinousRiceFlour: (
     <>
       Despite the name, glutinous rice flour does not contain gluten. It's named
@@ -241,6 +261,19 @@ export const info = {
       medium-to-mild varieties. You could also replace with chili powders, such
       as kashmiri chili powder. If you do that, reduce the amount to 3/4 of the
       specified amount, since powder packs more tightly than flakes.
+    </>
+  ),
+  hominy: (
+    <>
+      Lavis is a{" "}
+      <a href="https://wob.coppermind.net/events/409/#e13805">
+        close analogue to corn.
+      </a>{" "}
+      Hominy is corn that has been nixtamalized, though. This process never
+      appears in the books, but it is required in order to make flatbread from
+      corn, and we do see lavis flatbread in the books. I have made the
+      assumption that either Roshar has access to nixtamalization, or lavis is
+      different enough from corn that it doesn't require it.
     </>
   ),
   honey: (
@@ -271,6 +304,21 @@ export const info = {
       Lemons are present on Roshar. (Oathbringer, Rosharan Wines illustration)
     </>
   ),
+  lingonberryJam: (
+    <>
+      I used lingonberries in place of simberries. Simberries are described as
+      having red skin and a clear interior (Rhythm of War ch 7). Lingonberries
+      don't have a clear interior, but they are made into jam and wine like
+      simberries. I went with lingonberries because there aren't actually that
+      many commonly eaten berries with red skins. Strawberries and raspberries,
+      which are the most common red berries, don't have skins. I recommend just
+      buying lingonberry jam or spread - IKEA sells it at their stores. If you
+      live in northern North America or Europe, though, you may be able to
+      forage these in the wild. They are also known as lowbush cranberries. I've
+      eaten plenty of them in Denali National Park in Alaska. If you must
+      substitute, their flavor is similar to regular cranberries.
+    </>
+  ),
   maseca: (
     <>
       Lavis is a{" "}
@@ -284,12 +332,30 @@ export const info = {
       require it.
     </>
   ),
+  molasses: (
+    <>
+      Molasses is a byproduct of the sugar making process. Since Roshar has
+      sugar, they should have access to molasses as well.
+    </>
+  ),
   mussels: (
     <>
       Mussels are my choice for stranna haspers. Haspers are bivalve mollusks
       that are fairly common and live above water. (The Way of Kings ch 44) On
       earth we don't have any non-aquatic bivalves, but mussels fill the rest of
       the requirements.
+    </>
+  ),
+  nuts: (
+    <>Nuts are mentioned in the Rosharan Wines illustration in Oathbringer.</>
+  ),
+  oats: (
+    <>
+      I used oats in place of clema. I needed a gluten-free grain that could be
+      used to make bread with granules in it. It also needed to be something
+      that conceivably could be a staple food for a population. I chose oats
+      because steel-cut oats work well in bread, and both steel-cut oats and oat
+      flour are commonly available at grocery stores.
     </>
   ),
   onion: (
@@ -311,6 +377,15 @@ export const info = {
       Passionfruit feels like something straight out of Roshar. It's a round
       fruit that grows on a vine, and is filled with pulp-encased seeds. If that
       isn't a rockbud I don't know what is.
+    </>
+  ),
+  persimmons: (
+    <>
+      I used persimmons as methi fruit. Methi fruit is red when rotting (Rhythm
+      of War ch 98) which implies that it's not red when ripe. Persimmons fit
+      this well. They work well with asian cuisine, are delicious when cooked,
+      and are orange when ripe, becoming more red when overripe. Just make sure
+      to use fuya persimmons, as other varieties are too sour to eat when firm.
     </>
   ),
   pectin: (
@@ -358,6 +433,16 @@ export const info = {
         not familiar with potatoes
       </a>
       .
+    </>
+  ),
+  preservedLemon: (
+    <>
+      Preserved lemons are an ingredient from North Africa. Lemons are preserved
+      in a salt brine, which makes them saltier, less sour, and intensifies the
+      lemon flavor. They're a unique ingredient, and I chose them to make
+      Tashikki food feel different from Alethi food. (And the Makabaki peoples
+      do draw some inspirations from Africa.) As for the lemons themselves, they
+      are present on Roshar. (Oathbringer, Rosharan Wines illustration)
     </>
   ),
   rice: (
@@ -419,6 +504,12 @@ export const info = {
         similar to a sweet potato
       </a>
       .
+    </>
+  ),
+  tahini: (
+    <>
+      Tahini is simply ground sesame seeds, so I've treated this like I did the
+      spices. I assume that Roshar will have a similar seed that we can use.
     </>
   ),
   tomatoes: (
