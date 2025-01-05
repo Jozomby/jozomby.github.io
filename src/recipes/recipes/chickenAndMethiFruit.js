@@ -59,11 +59,11 @@ export const chickenAndMethiFruit = {
         },
         {
           item: "persimmons",
-          display: "4 firm fuya persimmons"
+          display: "2 cups chopped firm fuya persimmons (about 4 small persimmons, or 3 large)"
         },
         {
-          item: "rice",
-          display: "2 tbsp rice flour"
+          item: "corn",
+          display: "1 tbsp corn starch"
         },
         {
           item: "water",
@@ -76,8 +76,8 @@ export const chickenAndMethiFruit = {
     "Slice the chicken breasts along the sides to get slabs the same shape as the original breasts, but 1/2 inch thick.",
     "Heat 1 tbsp coconut oil in a large stainless steel skillet over medium high heat. Place chicken in a single layer in the pan. Sprinkle with cumin, salt, and 1 tbsp lemon juice. Cook until the bottom of the chicken browns a bit and releases from the pan. Flip and continue to cook until cooked through and both sides are somewhat browned.",
     "Remove the chicken from the pan, put on a plate, and cover with foil to keep warm. Dice the onion and add it to the pan along with 1 tbsp coconut oil. Cook over medium heat until tender.",
-    "Add the chicken stock to the pan and stir to deglaze. Peel and mince the ginger. Add the ginger to the pan along with the molasses, oyster sauce, and 2 tsp lemon juice. Bring to a boil, then reduce heat and simmer for 5 minutes.",
-    "Peel and chop the persimmons. Discard the white bits at the center and the stems. Add the persimmons to the pan and stir. Cover and simmer for 5 minutes until the persimmons are tender.",
-    "In a small bowl, combine the rice flour and cold water. Add it to the pan and stir until the sauce thickens. Slice the chicken and serve the persimmon sauce over the chicken."
+    "Add the chicken stock to the pan and stir to deglaze any remaining brown bits stuck to the pan. Peel and mince the ginger. Add the ginger to the pan along with the molasses, oyster sauce, and 2 tsp lemon juice. Bring to a boil, then reduce heat and simmer for 5 minutes.",
+    "Peel and chop the persimmons to 1/2 inch cubes. Discard the white bits at the center and the stems. Add the persimmons to the pan and stir. Cover and simmer for 5 minutes until the persimmons are tender.",
+    "In a small bowl, combine the corn starch and cold water. Add it to the pan and stir until the sauce thickens. Slice the chicken and serve the persimmon sauce over the chicken."
   ]
 }
