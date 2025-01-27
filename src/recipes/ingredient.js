@@ -21,6 +21,7 @@ export const info = {
       sweet and having many uses.
     </>
   ),
+  // TODO - Update the notes on baking powder baking soda. Shin people make them from burning salt water plants to ash then dissolving in water, carbonating the water, and evaporating the water. Cream of tartar is a byproduct of wine making. It's a newer development in Shinovar and hasn't made its way to the rest of Roshar yet.
   bakingPowder: (
     <>
       Baking powder is simply baking soda with some additional ingredients.
@@ -473,6 +474,7 @@ export const info = {
       closest our regular human teeth are likely to appreciate.
     </>
   ),
+  // Add a note about why I chose not to use soy sauce
   spam: (
     <>
       Spam is my best guess for soulcast meat. The low sodium option is
@@ -512,6 +514,7 @@ export const info = {
       spices. I assume that Roshar will have a similar seed that we can use.
     </>
   ),
+  // Update the note of tomatoes to include that since they're not used in Misir Wat in Shinovar, that's extra support to them not existing on Roshar
   tomatoes: (
     <>
       I've chosen not to use tomatoes in any recipes. They're never mentioned in
@@ -571,6 +574,8 @@ export const info = {
     </>
   )
 }
+
+// Add notes on extra ingredients we know they eeat but I didn't use in any recipes. Caviar for the Alethi. Mutton and carrots for the Shin. etc.
 
 export const Ingredient = memo(({ ingredient }) => {
   const ingredientInfo = info[ingredient.item]

@@ -36,7 +36,7 @@ export const rocksStew = {
         },
         {
           item: "turnip",
-          display: "3 turnips"
+          display: "1 lb turnips"
         },
         {
           item: "sweetPotato",
