@@ -21,19 +21,39 @@ export const info = {
       sweet and having many uses.
     </>
   ),
-  // TODO - Update the notes on baking powder baking soda. Shin people make them from burning salt water plants to ash then dissolving in water, carbonating the water, and evaporating the water. Cream of tartar is a byproduct of wine making. It's a newer development in Shinovar and hasn't made its way to the rest of Roshar yet.
   bakingPowder: (
     <>
-      Baking powder is simply baking soda with some additional ingredients.
-      Neither of them were invented on earth until the 1800's, so would not be
-      available on Roshar.
+      Originally I had decided not to use baking powder. Baking powder, being baking
+      soda with some additional ingredients, wasn't invented on earth until the 1800's.
+      I didn't think it would be available on Roshar at the time of books, as it appears
+      that Roshar is just starting its industrial revolution. However, Wind and Truth ch 36
+      mentions soda biscuits. (Since Brandon is American, I'm interpreting "soda biscuit" as
+      American biscuits leavened with baking soda.) I did some research on pre-industrial
+      methods that could be used to make baking soda, and they do exist. They may not have
+      been used on earth, but they could have been discovered in Shinovar. The Shin people
+      likely harvest saltwater plants such as seaweed, then burn them to an ash. This ash can
+      then be dissolved in water and carbonated by passing air through it. Then the water is
+      evaporated, leaving baking soda behind. Given the complexity of this process, and the
+      requirement for seaweed, I've decided that the process hasn't made it out of Shinovar yet,
+      at least not widely enough to be used by the rest of Roshar, making Shin food the only
+      cuisine that used baking powder and soda.
     </>
   ),
   bakingSoda: (
     <>
-      On earth, baking soda wasn't invented until the 1800s. Roshar is clearly
-      not yet to that point in their technological development, so I did not use
-      baking soda or baking powder in any recipes.
+      Originally I had decided not to use baking soda, since it wasn't invented on earth until the 1800's.
+      I didn't think it would be available on Roshar at the time of books, as it appears
+      that Roshar is just starting its industrial revolution. However, Wind and Truth ch 36
+      mentions soda biscuits. (Since Brandon is American, I'm interpreting "soda biscuit" as
+      American biscuits leavened with baking soda.) I did some research on pre-industrial
+      methods that could be used to make baking soda, and they do exist. They may not have
+      been used on earth, but they could have been discovered in Shinovar. The Shin people
+      likely harvest saltwater plants such as seaweed, then burn them to an ash. This ash can
+      then be dissolved in water and carbonated by passing air through it. Then the water is
+      evaporated, leaving baking soda behind. Given the complexity of this process, and the
+      requirement for seaweed, I've decided that the process hasn't made it out of Shinovar yet,
+      at least not widely enough to be used by the rest of Roshar, making Shin food the only
+      cuisine that used baking powder and soda.
     </>
   ),
   beanPaste: (
@@ -146,6 +166,13 @@ export const info = {
       since both have a flat tail, claws, and antennae. (Oathbringer ch 68)
     </>
   ),
+  creamOfTartar: (
+    <>
+      Cream of tartar is a byproduct of the wine-making process, and requires actual
+      grape wine, not the Rosharan grain alcohols that they call wine. As such, it's
+      only available in Shinovar.
+    </>
+  ),
   cucumber: (
     <>
       Cucumbers seem like a good fit for crispmelons. I've read that horses can
@@ -172,8 +199,9 @@ export const info = {
       They have around a dozen teats and only produce milk for 15 seconds at a
       time. Even in cultures that are known for using every part of the animal,
       pig milk is not used. So I've chosen to use dairy products very sparingly.
-      Per Brandon, they are available, but I've chosen to interpret that as
-      something mostly only available to the wealthy.
+      Per Brandon, they are available, and we do know that milk is served in taverns.
+      (Wind and Truth ch 12) In general, I've chosen to use dairy products in only
+      a few recipes, specifically dishes eaten by the wealthy.
     </>
   ),
   dashi: (

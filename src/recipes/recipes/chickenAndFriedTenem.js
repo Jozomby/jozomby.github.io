@@ -73,9 +73,9 @@ export const chickenAndFriedTenem = {
     }
   ],
   steps: [
-    "Slice the chicken breast into thin strips, then cut strips to 2-inch lengths. Heat 1 tbsp butter in a stainless steel skillet over high heat. Add the chicken in a single layer. If the chicken won't all fit in a single layer, go ahead and add it all. In that case, when it's time to flip the chicken as described below, start stirring it occasionally instead until it's all cooked and the pan is browned.",
-    "In a bowl, combine the salt, turmeric, cumin, coriander, and gochugaru. Sprinkle half of the spice mix over the chicken. Reserve the other half.",
-    "Cook until the chicken releases from the pan, then flip pieces over and cook until the liquid evaporates and the chicken browns. The pan should get a browned residue as well.",
+    "Slice the chicken breast into thin strips, then cut strips to 2-inch lengths. In a bowl, combine the salt, turmeric, cumin, coriander, and gochugaru.",
+    "Heat 1 tbsp butter in a stainless steel skillet over high heat. Add the chicken in a single layer. If the chicken won't all fit in a single layer, go ahead and add it all. In that case, when it's time to flip the chicken as described below, start stirring it occasionally instead until it's all cooked and the pan is browned.",
+    "Sprinkle half of the spice mix over the chicken. Reserve the other half. Cook until the chicken releases from the pan, then flip pieces over and cook until the liquid evaporates and the chicken browns. The pan should get a browned residue as well.",
     "Meanwhile, peel the squash and slice into 1/4 inch thick slices. If you're using the part of the squash with seeds, once you start slicing into the seed chamber, using a spoon to scrape out seeds and discard. Then continue slicing. Fry the slices at 350 degrees Fahrenheit, flipping once, until tender and browned in spots.",
     "Once the chicken is cooked, remove the chicken from the pan and cover to keep warm. Place 1 tbsp butter in the pan and turn down to medium high heat. Dice the onion, and peel and mince the garlic. Add onion and garlic to the pan and cook until the onion is tender.",
     "Add lemon juice, chicken stock, and the rest of the spice mix to the pan, and stir to deglaze. Simmer for 5 minutes until it's a little thicker. Add 2 tbsp butter, then cook and stir until combined. Remove from heat.",

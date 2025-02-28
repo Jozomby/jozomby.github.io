@@ -64,18 +64,18 @@ export const fruitedRice = {
         {
           item: "driedFruit",
           display:
-            "1/2 cup chopped dried fruit (such as kiwi, prunes, apricots, dates)"
+            "1/2 cup finely chopped dried fruit, lightly packed (such as kiwi, prunes, apricots, dates)"
         }
       ]
     }
   ],
   steps: [
     "Wash the rice until the water runs clear. Set aside to drain in a mesh strainer.",
-    "Spread almonds in a single layer in a pot over medium heat. Toast and stir until browned. Set aside.",
+    "Spread almonds in a single layer in a pot over medium heat. Toast and stir until browned. Remove from pot and set aside.",
     "Add the coconut oil to the pot, then dice the onion and add it to the pan. Saute until translucent.",
     "Add anise seeds, coriander seeds, cumin, turmeric, garlic and salt to the onions. Cook and stir for a minute.",
     "Add the drained rice to the pot. Cook and stir until it begins to sizzle, then cook and stir 3 minutes more.",
-    "Add 2 1/2 cups water and the chopped dried fruit. Bring to a boil. Reduce heat to very low and cover. Let sit 25 minutes.",
+    "Add 2 1/2 cups water and the chopped dried fruit. Cover and bring to a boil. Reduce heat to very low and let sit 25 minutes.",
     "Remove from heat, add toasted almonds, then fluff with a fork."
   ]
 }

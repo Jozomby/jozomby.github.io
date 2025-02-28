@@ -6,7 +6,7 @@ export const cremlingCakes = {
   summary: "Cornbread muffins topped with coconut curry sauce and crayfish",
   inspiration: "Cornbread, Thai Yellow Curry",
   quantity: "6 muffins",
-  time: "40 minutes",
+  time: "45 minutes",
   notes:
     "This recipe was a fun fusion of influences. The cake is a fairly standard American cornbread, just adapted to use the available ingredients. For the sauce, I chose to do the women's food version that was served to Shallan, and based it off Thai curry. I referred to Thai food for some Alethi women's food, since it's known for sweet curries. Finally, it's topped with a steamed crayfish, to take the place of the cremling.",
   quotes:
@@ -63,8 +63,8 @@ export const cremlingCakes = {
           display: "1 inch ginger root"
         },
         {
-          item: "vegetableOil",
-          display: "2 tbsp vegetable oil"
+          item: "coconut",
+          display: "2 tbsp coconut oil"
         },
         {
           item: "curryPaste",

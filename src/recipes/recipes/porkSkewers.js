@@ -223,9 +223,9 @@ export const porkSkewers = {
     "Meanwhile, prepare the sauces.",
     "Savory sauce: Whisk together all ingredients",
     "Sour sauce: Whisk together all ingredients",
-    "Oil sauce: Melt the coconut oil. Whisk in the rice vinegar. Whisk in the mustard powder. This will help keep the sauce from separating - whisk again when it starts to separate.",
-    "Spicy sauce: Dice the onion, and peel and mince the ginger and garlic. Heat the oil in a pan, then add the onion, garlic, and ginger, and cook until the onion is transparent but not browned. Add the curry paste and salt. Cook and stir until combined. Add the coconut milk, water, and gochugaru. Cook and stir until combined.",
-    "Fruit sauce: Remove the pit from the plum. Finely chop the plum or process it in a food processor. Peel and mince the ginger. Add both to a saucepan along with the other ingredients. Simmer on medium, covered, stirring occasionally, until everything comes together and forms a sauce.",
+    "Oil sauce: Melt the coconut oil over medium low heat. Whisk in the rice vinegar. Whisk in the mustard powder. This will help keep the sauce from separating - whisk again when it starts to separate.",
+    "Spicy sauce: Dice the onion, and peel and mince the ginger and garlic. Heat the oil in a pan over medium high heat, then add the onion, garlic, and ginger, and cook until the onion is transparent but not browned, about 5 minutes. Add the curry paste and salt. Cook and stir until combined. Add the coconut milk, water, and gochugaru. Cook and stir an additional 2 minutes.",
+    "Fruit sauce: Remove the pit from the plum. Finely chop the plum or process it in a food processor. Peel and mince the ginger. Add both to a saucepan along with the other ingredients. Simmer on medium, covered, stirring occasionally, until everything comes together and forms a sauce, about 10 minutes.",
     "Serve the vegetable and meat skewers with flatbread and dipping sauces"
   ]
 }
