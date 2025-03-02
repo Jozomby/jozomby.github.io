@@ -25,6 +25,7 @@ body {
   @media (max-width: 600px) {
     padding: 0;
   }
+  overflow: scroll;
 }
 
 .source-material-container {

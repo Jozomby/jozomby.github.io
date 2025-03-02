@@ -68,7 +68,7 @@ export const Home = memo(() => {
   }
 
   return (
-    <div className="recipeScrollContainer" onScroll={handleScroll}>
+    <div className="scrollContainer" onScroll={handleScroll}>
       {allRecipes.slice(0, recipesToShow)}
     </div>
   )

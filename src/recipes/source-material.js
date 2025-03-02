@@ -3,7 +3,6 @@ import { info as ingredients } from "./ingredient"
 import "./source-material.css"
 
 export const SourceMaterial = memo(() => {
-  console.log(ingredients)
   const cultures = {
     alethkar: (
       <>

@@ -676,7 +676,6 @@ export const Ingredient = memo(({ ingredient }) => {
   if (!ingredientInfo) {
     return <p>{ingredient.display}</p>
   }
-  console.log(ingredientInfo)
   let numberWords = 0
   const ingredientInfoPieces = ingredientInfo.props.children
   if (typeof ingredientInfoPieces === "string") {
@@ -694,7 +693,6 @@ export const Ingredient = memo(({ ingredient }) => {
       }
     }, 0)
   }
-  console.log(numberWords)
   return (
     <>
       <Tooltip
