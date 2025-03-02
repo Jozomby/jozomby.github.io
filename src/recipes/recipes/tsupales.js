@@ -9,7 +9,7 @@ export const tsupales = {
   quantity: "16 tsupales",
   time: "1 hour",
   notes:
-    "As I read about Elhokar and Isa making tsupales, I was taken back to memories of mountains of tamales during the holidays. Spending hours in the kitchen, making mountains of them for family and friends, it felt very culturally similar. The actual description of the tsupale, though, is a bit closer to an empanada. I followed the instructions in the story as closely as possible, but decided to serve it with avocado. We never see them eaten in the story, so we don't know how they're served, and the creaminess of the avocado goes really well with the masa of the tsupale.",
+    "As I read about Elhokar and Isa making tsupales, I was taken back to memories of mountains of tamales during the holidays. Spending hours in the kitchen, making endless amounts of them for family and friends, it felt very culturally similar. The actual description of the tsupale, though, is a bit closer to an empanada. I followed the instructions in the story as closely as possible, but decided to serve it with avocado. We never see them eaten in the story, so we don't know how they're served, and the creaminess of the avocado goes really well with the masa of the tsupale.",
   quotes:
     '"It takes work," said Isa. "Just like rolling tsupales"... Elhokar returned to his current tsupale and folded it as best he could. (King Lopen the First of Alethkar)',
   image: "https://jozomby-public.s3.amazonaws.com/recipes/tsupales-overview.jpg",
