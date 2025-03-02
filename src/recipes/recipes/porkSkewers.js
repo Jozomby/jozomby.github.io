@@ -12,7 +12,7 @@ export const porkSkewers = {
   quotes:
     "...the spicy scents made Kal’s stomach rumble. How long had it been since he’d had pork? There were five different dipping sauces on the table... “Very well,” Roshone said, taking a piece of flatbread from the basket and wrapping it around his skewer, pulling off several vegetable chunks at once and eating them with the bread. (The Way of Kings ch 37)",
   image:
-    "https://jozomby-public.s3.amazonaws.com/recipes/pork-skewers-overvieew.jpg",
+    "https://jozomby-public.s3.amazonaws.com/recipes/pork-skewers-overview.jpg",
   ingredientSections: [
     {
       title: "Skewers",
