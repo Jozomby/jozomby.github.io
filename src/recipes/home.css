@@ -1,0 +1,16 @@
+.recipeScrollContainer {
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+}
+.page {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  min-height: unset !important;
+}
+.RecipesApp {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
