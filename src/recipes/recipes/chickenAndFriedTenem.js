@@ -31,11 +31,11 @@ export const chickenAndFriedTenem = {
         },
         {
           item: "turmeric",
-          display: "1/2 tsp turmeric"
+          display: "1/2 tsp ground turmeric"
         },
         {
           item: "cumin",
-          display: "1/2 tsp cumin"
+          display: "1/2 tsp ground cumin"
         },
         {
           item: "coriander",

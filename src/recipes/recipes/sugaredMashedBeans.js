@@ -27,7 +27,7 @@ export const sugaredMashedBeans = {
         },
         {
           item: "sugar",
-          display: "3/4 cup sugar"
+          display: "3/4 cup granulated sugar"
         },
         {
           item: "salt",

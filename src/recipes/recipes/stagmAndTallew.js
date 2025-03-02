@@ -39,7 +39,7 @@ export const stagmAndTallew = {
         },
         {
           item: "cumin",
-          display: "1/2 tsp cumin"
+          display: "1/2 tsp ground cumin"
         },
         {
           item: "cardamom",

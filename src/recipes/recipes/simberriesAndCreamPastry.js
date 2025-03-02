@@ -36,7 +36,7 @@ export const simberriesAndCreamPastry = {
         },
         {
           item: "sugar",
-          display: "6 tbsp sugar"
+          display: "6 tbsp granulated sugar"
         },
         {
           item: "cardamom",

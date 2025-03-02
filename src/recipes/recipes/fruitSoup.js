@@ -52,7 +52,7 @@ export const fruitSoup = {
         },
         {
           item: "kiwi",
-          display: "2 kiwis"
+          display: "2 kiwifruit"
         },
         {
           item: "avocado",
@@ -60,7 +60,7 @@ export const fruitSoup = {
         },
         {
           item: "sugar",
-          display: "2 tsp sugar"
+          display: "2 tsp granulated sugar"
         }
       ]
     }

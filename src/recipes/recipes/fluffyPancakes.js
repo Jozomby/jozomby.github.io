@@ -26,7 +26,7 @@ export const fluffyPancakes = {
         },
         {
           item: "sugar",
-          display: "2 tsp sugar"
+          display: "2 tsp granulated sugar"
         },
         {
           item: "water",

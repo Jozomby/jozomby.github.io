@@ -35,15 +35,15 @@ export const porkSkewers = {
         },
         {
           item: "turmeric",
-          display: "1/2 tsp turmeric"
+          display: "1/2 tsp ground turmeric"
         },
         {
           item: "coriander",
-          display: "1/2 tsp coriander"
+          display: "1/2 tsp ground coriander"
         },
         {
           item: "cumin",
-          display: "1 tsp cumin"
+          display: "1 tsp ground cumin"
         },
         {
           item: "garamMasala",
@@ -143,7 +143,7 @@ export const porkSkewers = {
         },
         {
           item: "mustard",
-          display: "1/4 tsp mustard powder"
+          display: "1/4 tsp ground mustard seed"
         }
       ]
     },

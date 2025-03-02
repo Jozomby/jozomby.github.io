@@ -2,7 +2,7 @@ export const fruitedRice = {
   id: "fruitedRice",
   link: "/#/recipes/recipes/fruitedRice",
   name: "Fruited Rice",
-  cuisine: "Alethi women's food",
+  cuisine: "Alethi Women's Food",
   summary: "Spiced rice with dried fruit and nuts",
   inspiration: "Pilaf",
   quantity: "4 servings",

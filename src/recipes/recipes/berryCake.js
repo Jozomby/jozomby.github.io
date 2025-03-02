@@ -23,7 +23,7 @@ export const berryCake = {
         },
         {
           item: "sugar",
-          display: "2/3 cup sugar"
+          display: "2/3 cup granulated sugar"
         },
         {
           item: "blueberries",
@@ -68,7 +68,7 @@ export const berryCake = {
         },
         {
           item: "cinnamon",
-          display: "1/2 tsp cinnamon"
+          display: "1/2 tsp ground cinnamon"
         },
         {
           item: "cloves",

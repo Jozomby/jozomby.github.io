@@ -118,9 +118,9 @@ export const SourceMaterial = memo(() => {
         <a href="https://www.reddit.com/r/Stormlight_Archive/comments/4shyds/comment/d59u6fo/">
           not perfect analogues to western Europe,
         </a>{" "}
-        they're the closest it gets on Roshar. There is still likely to be some
-        Asian influence. They have wheat, grapes, chickens, sheep, etc. I expect
-        to add more to this section after reading Wind and Truth.
+        they're the closest it gets on Roshar. They have wheat, grapes, chickens, sheep, etc.
+        Given that they eat misir wat, and Ethiopian dish, there is definitely
+        some Ethiopian influence in their food as well.
       </>
     ),
     tashikk: (

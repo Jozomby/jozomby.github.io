@@ -23,37 +23,42 @@ export const info = {
   ),
   bakingPowder: (
     <>
-      Originally I had decided not to use baking powder. Baking powder, being baking
-      soda with some additional ingredients, wasn't invented on earth until the 1800's.
-      I didn't think it would be available on Roshar at the time of books, as it appears
-      that Roshar is just starting its industrial revolution. However, Wind and Truth ch 36
-      mentions soda biscuits. (Since Brandon is American, I'm interpreting "soda biscuit" as
-      American biscuits leavened with baking soda.) I did some research on pre-industrial
-      methods that could be used to make baking soda, and they do exist. They may not have
-      been used on earth, but they could have been discovered in Shinovar. The Shin people
-      likely harvest saltwater plants such as seaweed, then burn them to an ash. This ash can
-      then be dissolved in water and carbonated by passing air through it. Then the water is
-      evaporated, leaving baking soda behind. Given the complexity of this process, and the
-      requirement for seaweed, I've decided that the process hasn't made it out of Shinovar yet,
-      at least not widely enough to be used by the rest of Roshar, making Shin food the only
-      cuisine that used baking powder and soda.
+      Originally I had decided not to use baking powder. Baking powder, being
+      baking soda with some additional ingredients, wasn't invented on earth
+      until the 1800's. I didn't think it would be available on Roshar at the
+      time of books, as it appears that Roshar is just starting its industrial
+      revolution. However, Wind and Truth ch 36 mentions soda biscuits. (Since
+      Brandon is American, I'm interpreting "soda biscuit" as American biscuits
+      leavened with baking soda.) I did some research on pre-industrial methods
+      that could be used to make baking soda, and they do exist. They may not
+      have been used on earth, but they could have been discovered in Shinovar.
+      The Shin people likely harvest saltwater plants such as seaweed, then burn
+      them to an ash. This ash can then be dissolved in water and carbonated by
+      passing air through it. Then the water is evaporated, leaving baking soda
+      behind. Given the complexity of this process, and the requirement for
+      seaweed, I've decided that the process hasn't made it out of Shinovar yet,
+      at least not widely enough to be used by the rest of Roshar, making Shin
+      food the only cuisine that used baking powder and soda.
     </>
   ),
   bakingSoda: (
     <>
-      Originally I had decided not to use baking soda, since it wasn't invented on earth until the 1800's.
-      I didn't think it would be available on Roshar at the time of books, as it appears
-      that Roshar is just starting its industrial revolution. However, Wind and Truth ch 36
-      mentions soda biscuits. (Since Brandon is American, I'm interpreting "soda biscuit" as
-      American biscuits leavened with baking soda.) I did some research on pre-industrial
-      methods that could be used to make baking soda, and they do exist. They may not have
-      been used on earth, but they could have been discovered in Shinovar. The Shin people
-      likely harvest saltwater plants such as seaweed, then burn them to an ash. This ash can
-      then be dissolved in water and carbonated by passing air through it. Then the water is
-      evaporated, leaving baking soda behind. Given the complexity of this process, and the
-      requirement for seaweed, I've decided that the process hasn't made it out of Shinovar yet,
-      at least not widely enough to be used by the rest of Roshar, making Shin food the only
-      cuisine that used baking powder and soda.
+      Originally I had decided not to use baking soda, since it wasn't invented
+      on earth until the 1800's. I didn't think it would be available on Roshar
+      at the time of books, as it appears that Roshar is just starting its
+      industrial revolution. However, Wind and Truth ch 36 mentions soda
+      biscuits. (Since Brandon is American, I'm interpreting "soda biscuit" as
+      American biscuits leavened with baking soda.) I did some research on
+      pre-industrial methods that could be used to make baking soda, and they do
+      exist. They may not have been used on earth, but they could have been
+      discovered in Shinovar. The Shin people likely harvest saltwater plants
+      such as seaweed, then burn them to an ash. This ash can then be dissolved
+      in water and carbonated by passing air through it. Then the water is
+      evaporated, leaving baking soda behind. Given the complexity of this
+      process, and the requirement for seaweed, I've decided that the process
+      hasn't made it out of Shinovar yet, at least not widely enough to be used
+      by the rest of Roshar, making Shin food the only cuisine that used baking
+      powder and soda.
     </>
   ),
   beanPaste: (
@@ -87,8 +92,8 @@ export const info = {
   ),
   butter: (
     <>
-      There are sheep in Shinovar. (Rhythm of War, interlude I7) Given that
-      sheep milk is used on earth for dairy products, the{" "}
+      There are sheep in Shinovar. (Rhythm of War interlude I7) Given that sheep
+      milk is used on earth for dairy products, the{" "}
       <a href="https://wob.coppermind.net/events/148-torcom-the-way-of-kings-re-read-interview/#e2778">
         differences in pigs that allow them to be milked,
       </a>{" "}
@@ -159,6 +164,7 @@ export const info = {
       </a>
     </>
   ),
+  crab: <>Crabs are commonly eaten on Roshar. (Oathbringer ch 63)</>,
   crayfish: (
     <>
       Crayfish are the closest thing I can find to a cremling. They're small and
@@ -168,9 +174,9 @@ export const info = {
   ),
   creamOfTartar: (
     <>
-      Cream of tartar is a byproduct of the wine-making process, and requires actual
-      grape wine, not the Rosharan grain alcohols that they call wine. As such, it's
-      only available in Shinovar.
+      Cream of tartar is a byproduct of the wine-making process, and requires
+      actual grape wine, not the Rosharan grain alcohols that they call wine. As
+      such, it's only available in Shinovar.
     </>
   ),
   cucumber: (
@@ -182,11 +188,14 @@ export const info = {
   ),
   curryPaste: (
     <>
-      Curry paste exists on Roshar. (Words of Radiance ch 49). I chose to use
-      yellow curry paste each time, so that you don't have to buy multiple
-      varieties. But try mixing it up! While yellow curry paste works well for
-      women's food, as it is the least spicy, red curry paste might go better in
-      men's food.
+      Curry paste exists on Roshar. (Words of Radiance ch 49). I usually use
+      yellow curry paste or panang. I also occasionally buy a very mild (and
+      inauthentic and less flavorful) red curry paste (the brand is Thai
+      Kitchen) when I want to make a curry with practically no heat to it. For
+      women's food (meaning the distinct Vorin cuisine, not at all related to
+      what actual women like to eat), I recommend mild pastes such as yellow or
+      the Thai Kitchen paste. For men's food, you can use whatever type of curry
+      paste you like. The spicier the better.
     </>
   ),
   dairy: (
@@ -199,9 +208,9 @@ export const info = {
       They have around a dozen teats and only produce milk for 15 seconds at a
       time. Even in cultures that are known for using every part of the animal,
       pig milk is not used. So I've chosen to use dairy products very sparingly.
-      Per Brandon, they are available, and we do know that milk is served in taverns.
-      (Wind and Truth ch 12) In general, I've chosen to use dairy products in only
-      a few recipes, specifically dishes eaten by the wealthy.
+      Per Brandon, they are available, and we do know that milk is served in
+      taverns. (Wind and Truth ch 12) In general, I've chosen to use dairy
+      products in only a few recipes, especially dishes eaten by the wealthy.
     </>
   ),
   dashi: (
@@ -256,6 +265,14 @@ export const info = {
       somewhat common in Alethkar, and likely other parts of Roshar as well.
     </>
   ),
+  fishSauce: (
+    <>
+      Since is eaten on Roshar, (Oathbringer ch 97) fish sauce should be
+      available as well. On earth, we have record of fish sauce being made going
+      back to the 4th to 3rd century BC, so there's no issue with the technology
+      level.
+    </>
+  ),
   garlicClove: (
     <>
       Brandon has stated that{" "}
@@ -290,6 +307,18 @@ export const info = {
       medium-to-mild varieties. You could also replace with chili powders, such
       as kashmiri chili powder. If you do that, reduce the amount to 3/4 of the
       specified amount, since powder packs more tightly than flakes.
+    </>
+  ),
+  groundShrimp: (
+    <>
+      I used shrimp here in place of cremling meat. Cremlings are such a wide
+      category of animals that any type of crustacean should work.
+    </>
+  ),
+  hibiscus: (
+    <>
+      Roshar has flowers, (The Way of Kings ch 3) so I see no issue assuming
+      that there is something similar to hibiscus available.
     </>
   ),
   hominy: (
@@ -333,6 +362,7 @@ export const info = {
       Lemons are present on Roshar. (Oathbringer, Rosharan Wines illustration)
     </>
   ),
+  lentils: <>Lentils are eaten in Shinovar. (Wind and Truth ch 36)</>,
   lingonberryJam: (
     <>
       I used lingonberries in place of simberries. Simberries are described as
@@ -359,6 +389,14 @@ export const info = {
       corn. I have made the assumption that either Roshar has access to
       nixtamalization, or lavis is different enough from corn that it doesn't
       require it.
+    </>
+  ),
+  mint: <>Mint is used in tea (Oathbringer ch 107).</>,
+  mirin: (
+    <>
+      Mirin is partially fermented rice wine. Some Rosharan wines are grain
+      alcohols (Oathbringer, Rosharan Wines Illustration) so a sweet partially
+      fermented alcohol like mirin should be available.
     </>
   ),
   molasses: (
@@ -392,7 +430,18 @@ export const info = {
       Onions are in the same family as garlic, which Brandon has stated has a{" "}
       <a href="https://wob.coppermind.net/events/409/#e13805">
         close analogue on Roshar.
-      </a>
+      </a>{" "}
+      We also onions in Shinovar in Wind and Truth ch 36.
+    </>
+  ),
+  oliveOil: (
+    <>
+      While I have no reason to believe that olives are present on Roshar, they
+      definitely do have flavorful oils. (Words of Radiance ch 41) While I used
+      coconut oil for the eastern countries like Alethkar, as we move westward
+      across Roshar I use more African influences, so I included olive oil in
+      these recipes. I assume that there is some native plant that westerners
+      are getting oil from, and I'm using olive oil in its place.
     </>
   ),
   oysterSauce: (
@@ -482,6 +531,13 @@ export const info = {
     </>
   ),
   scallops: <>Shellfish is present on Roshar. (Rhythm of War prologue)</>,
+  sesame: (
+    <>
+      Sesame seeds aren't directly mentioned in the books, but I'm treating this
+      like I do the spices and assuming that there is a similar seed on Roshar
+      that can be used.
+    </>
+  ),
   shrimp: (
     <>
       Shrimp seems like a good substitute for finger crabs. They look somewhat
@@ -496,6 +552,7 @@ export const info = {
       I-1). Smelts match this well.
     </>
   ),
+  snails: <>Snails are eaten in Babatharnam. (The Way of Kings ch 46)</>,
   softShellCrab: (
     <>
       Soft shell crabs are not as crunchy as cremling claws, but they're the
@@ -542,12 +599,21 @@ export const info = {
       spices. I assume that Roshar will have a similar seed that we can use.
     </>
   ),
-  // Update the note of tomatoes to include that since they're not used in Misir Wat in Shinovar, that's extra support to them not existing on Roshar
+  tilapia: (
+    <>
+      Fish is eaten on Roshar (Oathbringer ch 97). I chose to use tilapia simply
+      because it's a cheap and widely avaialable fish. Feel free to substitute
+      with your favorite type of white fish.
+    </>
+  ),
   tomatoes: (
     <>
       I've chosen not to use tomatoes in any recipes. They're never mentioned in
       the books, and avoiding them has helped me make the dishes feel a little
-      more alien, to me at least.
+      more alien, to me at least. There's also the fact that misir wat is eaten
+      in Shinovar, which is a real world Ethiopian dish. On earth, it's made
+      with tomatoes. In Shinovar, it is not. This further helps support the
+      absence of tomatoes.
     </>
   ),
   turnip: (

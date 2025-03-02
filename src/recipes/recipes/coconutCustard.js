@@ -35,7 +35,7 @@ export const coconutCustard = {
         },
         {
           item: "cinnamon",
-          display: "1/2 tsp cinnamon"
+          display: "1/2 tsp ground cinnamon"
         },
         {
           item: "salt",
@@ -52,7 +52,7 @@ export const coconutCustard = {
         },
         {
           item: "sugar",
-          display: "1/2 cup sugar"
+          display: "1/2 cup granulated sugar"
         },
         {
           item: "corn",

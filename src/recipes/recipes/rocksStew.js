@@ -72,7 +72,7 @@ export const rocksStew = {
         },
         {
           item: "cumin",
-          display: "1 tsp cumin"
+          display: "1 tsp ground cumin"
         },
         {
           item: "carawaySeeds",

@@ -12,10 +12,19 @@ export const Recipes = memo(() => {
         <h2>Alethkar</h2>
         <ul>
           <li>
+            <RecipeLine id="lavisAndCrab" />
+          </li>
+          <li>
+            <RecipeLine id="candiedFruit" />
+          </li>
+          <li>
             <RecipeLine id="chickenAndFriedTenem" />
           </li>
           <li>
             <RecipeLine id="chickenAndMethiFruit" />
+          </li>
+          <li>
+            <RecipeLine id="crabCurry" />
           </li>
           <li>
             <RecipeLine id="cremlingCakes" />
@@ -28,6 +37,9 @@ export const Recipes = memo(() => {
           </li>
           <li>
             <RecipeLine id="kuma" />
+          </li>
+          <li>
+            <RecipeLine id="lavisCurry" />
           </li>
           <li>
             <RecipeLine id="lavisFlatbread" />
@@ -57,6 +69,9 @@ export const Recipes = memo(() => {
             <RecipeLine id="steamedStrannaHaspers" />
           </li>
           <li>
+            <RecipeLine id="sugaredFlatbread" />
+          </li>
+          <li>
             <RecipeLine id="sweetBeanDonutHoles" />
           </li>
           <li>
@@ -68,11 +83,17 @@ export const Recipes = memo(() => {
           <li>
             <RecipeLine id="vegetableCurrySoup" />
           </li>
+          <li>
+            <RecipeLine id="vegetablesWithBlackSauce" />
+          </li>
         </ul>
       </div>
       <div className="recipeCountrySection">
         <h2>Azir</h2>
         <ul>
+          <li>
+            <RecipeLine id="azishSausages" />
+          </li>
           <li>
             <RecipeLine id="berryCake" />
           </li>
@@ -85,16 +106,33 @@ export const Recipes = memo(() => {
         </ul>
       </div>
       <div className="recipeCountrySection">
+        <h2>Babatharnam</h2>
+        <ul>
+          <li>
+            <RecipeLine id="tastySnails" />
+          </li>
+        </ul>
+      </div>
+      <div className="recipeCountrySection">
         <h2>Herdaz</h2>
         <ul>
           <li>
             <RecipeLine id="chouta" />
+          </li>
+          <li>
+            <RecipeLine id="frybread" />
+          </li>
+          <li>
+            <RecipeLine id="tsupales" />
           </li>
         </ul>
       </div>
       <div className="recipeCountrySection">
         <h2>Horneater Peaks</h2>
         <ul>
+          <li>
+            <RecipeLine id="fishStew" />
+          </li>
           <li>
             <RecipeLine id="rocksStew" />
           </li>
@@ -112,6 +150,12 @@ export const Recipes = memo(() => {
           <li>
             <RecipeLine id="fruitSoup" />
           </li>
+          <li>
+            <RecipeLine id="ingoTea" />
+          </li>
+          <li>
+            <RecipeLine id="porkBroth" />
+          </li>
         </ul>
       </div>
       <div className="recipeCountrySection">
@@ -126,6 +170,12 @@ export const Recipes = memo(() => {
         <h2>Shinovar</h2>
         <ul>
           <li>
+            <RecipeLine id="misirWat" />
+          </li>
+          <li>
+            <RecipeLine id="sodaBiscuits" />
+          </li>
+          <li>
             <RecipeLine id="strawberryJam" />
           </li>
         </ul>
@@ -138,6 +188,9 @@ export const Recipes = memo(() => {
           </li>
           <li>
             <RecipeLine id="fluffyPancakes" />
+          </li>
+          <li>
+            <RecipeLine id="seededPancakes" />
           </li>
           <li>
             <RecipeLine id="vegetablePancakes" />

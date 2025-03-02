@@ -46,7 +46,7 @@ export const steamedStrannaHaspers = {
         },
         {
           item: "turmeric",
-          display: "1/2 tsp turmeric"
+          display: "1/2 tsp ground turmeric"
         },
         {
           item: "gochugaru",

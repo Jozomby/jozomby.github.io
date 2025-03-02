@@ -23,7 +23,7 @@ export const clemabread = {
         },
         {
           item: "wheatFlour",
-          display: "2 - 2 1/2 cups white flour, divided"
+          display: "2 - 2 1/2 cups all-purpose flour, divided"
         },
         {
           item: "yeast",
@@ -39,7 +39,7 @@ export const clemabread = {
         },
         {
           item: "sugar",
-          display: "2 tbsp sugar"
+          display: "2 tbsp granulated sugar"
         },
         {
           item: "salt",

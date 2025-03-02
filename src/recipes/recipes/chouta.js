@@ -7,7 +7,7 @@ export const chouta = {
     "Deep fried meatballs or crab, wrapped in flatbread and smothered in gravy.",
   inspiration: null,
   quantity: "5",
-  time: "1.5 hours",
+  time: "90 minutes",
   notes:
     "Chouta proved an interesting challenge. Flangria is made with soulcast meat, which obviously doesn't exist on Earth. Soulcast meat is described as bland, able to be cut into cubes, and something that most people avoid eating if they have other options. By that criteria, it seemed clear that the best real-world analogue was Spam. Low sodium off-brand Spam, to be specific (in order to further reduce the flavor). Spam is also made from pork, which Rosharans are familiar with, so it seemed a good fit. I also made a version with fried soft-shell crabs, as the closest edible replacement for the cremling claws that Rock eats in his chouta.",
   quotes:
@@ -35,11 +35,11 @@ export const chouta = {
         },
         {
           item: "cumin",
-          display: "1/2 tsp cumin, ground"
+          display: "1/2 tsp ground cumin"
         },
         {
           item: "coriander",
-          display: "1/2 tsp coriander, ground"
+          display: "1/2 tsp ground coriander"
         },
         {
           item: "garlicClove",
@@ -76,11 +76,11 @@ export const chouta = {
         },
         {
           item: "coriander",
-          display: "1/2 tsp coriander, ground"
+          display: "1/2 tsp ground coriander"
         },
         {
           item: "cumin",
-          display: "1/2 tsp cumin, ground"
+          display: "1/2 tsp ground cumin"
         },
         {
           item: "eggs",
@@ -96,7 +96,7 @@ export const chouta = {
         },
         {
           item: "vegetableOil",
-          display: "vegetable oil for frying"
+          display: "Vegetable oil for frying"
         }
       ]
     },
@@ -121,7 +121,7 @@ export const chouta = {
         },
         {
           item: "vegetableOil",
-          display: "vegetable oil for frying"
+          display: "Vegetable oil for frying"
         }
       ]
     },
@@ -138,7 +138,7 @@ export const chouta = {
         },
         {
           item: "vegetableOil",
-          display: "vegetable oil for frying"
+          display: "Vegetable oil for frying"
         }
       ]
     }

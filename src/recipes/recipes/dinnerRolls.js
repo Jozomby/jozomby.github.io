@@ -19,7 +19,7 @@ export const dinnerRolls = {
       ingredients: [
         {
           item: "wheatFlour",
-          display: "2 1/4 - 2 3/4 cups white flour, divided"
+          display: "2 1/4 - 2 3/4 cups all-purpose flour, divided"
         },
         {
           item: "wheatFlour",

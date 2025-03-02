@@ -84,7 +84,7 @@ export const cremlingCakes = {
         },
         {
           item: "turmeric",
-          display: "1/2 tsp turmeric"
+          display: "1/2 tsp ground turmeric"
         }
       ]
     }

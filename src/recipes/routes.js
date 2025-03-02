@@ -87,6 +87,28 @@ export const RecipesRoutes = (
         element={<Recipe id={"chickenAndMethiFruit"} />}
       />
       <Route path="dinnerRolls" element={<Recipe id={"dinnerRolls"} />} />
+      <Route
+        path="sugaredFlatbread"
+        element={<Recipe id={"sugaredFlatbread"} />}
+      />
+      <Route path="candiedFruit" element={<Recipe id={"candiedFruit"} />} />
+      <Route path="azishSausages" element={<Recipe id={"azishSausages"} />} />
+      <Route path="fishStew" element={<Recipe id={"fishStew"} />} />
+      <Route path="seededPancakes" element={<Recipe id={"seededPancakes"} />} />
+      <Route path="frybread" element={<Recipe id={"frybread"} />} />
+      <Route path="ingoTea" element={<Recipe id={"ingoTea"} />} />
+      <Route path="tastySnails" element={<Recipe id={"tastySnails"} />} />
+      <Route path="porkBroth" element={<Recipe id={"porkBroth"} />} />
+      <Route path="crabCurry" element={<Recipe id={"crabCurry"} />} />
+      <Route
+        path="vegetablesWithBlackSauce"
+        element={<Recipe id={"vegetablesWithBlackSauce"} />}
+      />
+      <Route path="lavisCurry" element={<Recipe id={"lavisCurry"} />} />
+      <Route path="tsupales" element={<Recipe id={"tsupales"} />} />
+      <Route path="misirWat" element={<Recipe id={"misirWat"} />} />
+      <Route path="sodaBiscuits" element={<Recipe id={"sodaBiscuits"} />} />
+      <Route path="lavisAndCrab" element={<Recipe id={"lavisAndCrab"} />} />
     </Route>
     <Route path="source" element={<SourceMaterial />} />
     <Route path="about" element={<About />} />

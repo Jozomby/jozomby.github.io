@@ -27,7 +27,7 @@ export const nutsAndHoneyPastry = {
         },
         {
           item: "sugar",
-          display: "3/4 cup sugar, divided"
+          display: "3/4 cup granulated sugar, divided"
         },
         {
           item: "cinnamon",

@@ -52,7 +52,7 @@ export const sweetBeanDonutHoles = {
         },
         {
           item: "sugar",
-          display: "1/4 cup sugar"
+          display: "1/4 cup granulated sugar"
         }
       ]
     }

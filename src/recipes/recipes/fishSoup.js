@@ -1,7 +1,7 @@
 export const fishSoup = {
   id: "fishSoup",
   link: "/#/recipes/recipes/fishSoup",
-  name: "Fish Soup",
+  name: "Purelaker Fish Soup",
   cuisine: "Purelaker",
   summary: "A thin soup made with coconut milk and fish",
   inspiration: "Sua I'a",
@@ -10,7 +10,7 @@ export const fishSoup = {
   notes:
     "We don't know much more about Purelake fish soup other than that it's a soup with small fish in it. I looked to Polynesian food and found Sua I'a. The biggest difference here is that small fish are used. I chose to use fresh hot peppers rather than gochugaru like many of the other recipes because this dish comes from a very different cuisine than Alethi food.",
   quotes:
-    "Maib stood inside, fixing a pot of fish soup (The Way of Kings, Interlude I-1)",
+    "Maib stood inside, fixing a pot of fish soup (The Way of Kings Interlude I-1)",
   image:
     "https://jozomby-public.s3.amazonaws.com/recipes/fish-soup-overview.jpg",
   ingredientSections: [

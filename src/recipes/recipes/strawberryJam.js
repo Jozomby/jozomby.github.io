@@ -27,7 +27,7 @@ export const strawberryJam = {
         },
         {
           item: "sugar",
-          display: "3 cups sugar"
+          display: "3 cups granulated sugar"
         },
         {
           item: "pectin",

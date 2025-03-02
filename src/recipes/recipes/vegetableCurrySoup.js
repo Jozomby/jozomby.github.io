@@ -35,7 +35,7 @@ export const vegetableCurrySoup = {
         },
         {
           item: "curryPaste",
-          display: "1 tbsp yellow curry paste"
+          display: "1 tbsp mild curry paste"
         },
         {
           item: "honey",
@@ -43,11 +43,11 @@ export const vegetableCurrySoup = {
         },
         {
           item: "cumin",
-          display: "1/2 tsp cumin"
+          display: "1/2 tsp ground cumin"
         },
         {
           item: "coriander",
-          display: "1/4 tsp coriander"
+          display: "1/4 tsp ground coriander"
         },
         {
           item: "salt",
@@ -55,7 +55,7 @@ export const vegetableCurrySoup = {
         },
         {
           item: "turmeric",
-          display: "1/4 tsp turmeric"
+          display: "1/4 tsp ground turmeric"
         },
         {
           item: "sweetPotato",

@@ -2,7 +2,7 @@ export const redPorkCurry = {
   id: "redPorkCurry",
   link: "/#/recipes/recipes/redPorkCurry",
   name: "Red Pork Curry",
-  cuisine: "Alethi men's food",
+  cuisine: "Alethi Men's Food",
   summary: "Pork chunks in a very spicy red curry",
   inspiration: "Rogan Josh",
   quantity: "6 servings",
