@@ -6,7 +6,7 @@ export const coconutCustard = {
   summary: "Creamy coconut custard over a crumbly almond base",
   inspiration: null,
   quantity: "9",
-  time: "30 minutes, plus time to chill",
+  time: "45 minutes, plus time to chill",
   notes:
     "In the book, this dessert was served in some sort of large bowl or other container, not in individual squares like I've done here. But that was also at the Revel, where everything was being done in excess. I think it's completely reasonable that they would have taken a dessert normally eaten in small servings and filled an entire bowl with it. For the recipe, I prefer this serving style rather than a big bowl of custard.",
   quotes:
@@ -39,7 +39,7 @@ export const coconutCustard = {
         },
         {
           item: "salt",
-          display: "1 tsp salt"
+          display: "1/4 tsp salt"
         }
       ]
     },
@@ -70,7 +70,7 @@ export const coconutCustard = {
     }
   ],
   steps: [
-    "Place sliced almonds and coconut flakes in a large dry skillet. Toast over medium low heat, stirring frequently for five minutes or so or until most of the pieces are browned. The coconut may all brown before the nuts do, that's ok. Just be sure to take the pan off the heat before anything gets dark brown.",
+    "Heat a large dry skillet over medium low heat. Add the sliced almonds and coconut flakes and toast, stirring frequently for 10 to 15 minutes or until most of the pieces are browned. The coconut may all brown before the nuts do, that's ok. Just be sure to take the pan off the heat before anything gets dark brown.",
     "Reserve 1/4 cup of the mixture. Take the rest and process in a food processor to coarse crumbs. Add honey, coconut oil, cinnamon, and salt. Process until combined and mixture can be pressed together.",
     "Line an 8 inch square pan with foil. Press mixture into the bottom of the pan to form the crust base. Place in the refrigerator to chill.",
     "For the filling, lightly beat the egg yolks in a bowl. Set aside. Mix the sugar and corn starch together in a saucepan. Add the coconut cream and mix well. Cook and stir over medium heat until thick and bubbly.",
