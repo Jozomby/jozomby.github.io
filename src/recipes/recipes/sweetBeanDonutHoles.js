@@ -59,9 +59,9 @@ export const sweetBeanDonutHoles = {
   ],
   steps: [
     "In a bowl, mix the glutinous rice flour, powdered sugar, and salt. Cut or crumble in the butter until the mixture resembles coarse crumbs.",
-    "Add 1/4 cup water and mix well. Add additional water, 1/2 tsp at a time, to get to a dough that you can knead. Knead well.",
-    "Pinch off sections and roll into 1 inch balls. Fry at 350 degrees Fahrenheit until lightly golden.",
-    "To fill the donut holes, I use a plastic syringe - the type used for giving medicine to babies. You could also use a piping bag with a thin nozzle. Fill the syringe or piping bag with bean paste.",
+    "Add 1/4 cup water and mix well. Add additional water, 1 tsp at a time, to get to a dough that you can knead without it cracking. Knead well.",
+    "Pinch off sections and roll into 1 inch balls. Fry at 375 degrees Fahrenheit, stirring or shaking occasionally to help them cook on all sides, until lightly golden and crispy on the outside, about 10 minutes.",
+    "To fill the donut holes, I use a plastic syringe - the type used for giving medicine to babies. Fill the syringe with bean paste.",
     "Once the donut holes are cooked, remove from the oil and let drain. Let cool just long enough to handle. Fill each one with 1/2 tsp bean paste.",
     "Mix the cinnamon and sugar in a bowl, then roll the filled donut holes in the cinnamon sugar. May be served warm or room temperature."
   ]
