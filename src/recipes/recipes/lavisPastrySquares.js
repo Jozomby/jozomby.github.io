@@ -19,7 +19,7 @@ export const lavisPastrySquares = {
       ingredients: [
         {
           item: "maseca",
-          display: "1 cup Mexican-style corn flour (Maseca)"
+          display: "2 cups Mexican-style corn flour (Maseca)"
         },
         {
           item: "salt",
@@ -31,18 +31,18 @@ export const lavisPastrySquares = {
         },
         {
           item: "honey",
-          display: "1/2 tbsp honey"
+          display: "1 tbsp honey"
         },
         {
           item: "water",
-          display: "1/2 to 2/3 cup water"
+          display: "1/2 to 2/3 cup very cold water"
         }
       ]
     }
   ],
   steps: [
     "Preheat oven to 425 degrees Fahrenheit. Combine Maseca and salt. Cut or crumble in the butter until it resembles small crumbs.",
-    "Add the honey, then add the water a bit at a time. You want to just moisten all the dough - use a fork to stir as you pour the water, and toss and fluff the mixture to get everything moistened. Once everything almost starts holding together, stop adding water. Add this point you should be able to press it all into a ball.",
+    "Add the honey, then add the cold water a bit at a time. You want to just moisten all the dough - use a fork to stir as you pour the water, and toss and fluff the mixture to get everything moistened. Once everything almost starts holding together, stop adding water. Add this point you should be able to press it all into a ball.",
     "Generously sprinkle Maseca over your work surface. Roll out the dough to a rectangle 1/8 inch thick, sprinkling additional Maseca on top of the dough if needed to stop it from sticking to the rolling pin.",
     "Slice the crumbly broken edges off the rectangle and discard them. Slice into 2 inch squares.",
     "Place the squares on a baking sheet. Sliding a knife or thin metal spatula under them may help remove them from your work surface without breaking. Bake at 425 degrees Fahrenheit for about 12 minutes, until edges are browned and tops start to brown. Remove from oven and let cool.",

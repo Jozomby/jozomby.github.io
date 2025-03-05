@@ -55,7 +55,7 @@ export const nutsAndHoneyPastry = {
   steps: [
     "Prepare the Lavis Pastry Squares. Turn the oven heat down to 350 degrees Fahrenheit.",
     "Spread the walnuts on a baking sheet in a single layer, then toast in the oven for about 8 minutes, shaking or stirring the pan every couple minutes. The walnuts should show some oil on the surface and a little bit of color, but should not be overly browned and burned.",
-    "Remove the nuts from the oven and chop them finely. Combine with 1/4 cup of the sugar and the 1/2 tsp ground cinnamon. Set aside.",
+    "Remove the nuts from the oven and chop them finely. Do not process them to a powder. Just chopped finely. Combine with 1/4 cup of the sugar and the 1/2 tsp ground cinnamon. Set aside.",
     "In a saucepan, combine the remaining 1/2 cup sugar, the honey, stick cinnamon, water, and lemon juice. Bring to a boil over medium heat, then reduce heat and simmer for 10 minutes. Remove from heat, and remove and discard the cinnamon sticks.",
     "To assemble, place half of the pastry squares in a rectangle, side by side, all touching each other. Spread half of the reserved nut mixture over the squares. Drizzle with half of the syrup. Place the other half of the pastry squares on top, doing your best to line them up with the squares underneath. Top with the remaining nut mixture, then drizzle with the remaining syrup. Use a spatula to remove individual stacks and serve."
   ]
