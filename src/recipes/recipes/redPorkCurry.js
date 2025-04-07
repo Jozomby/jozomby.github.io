@@ -6,7 +6,7 @@ export const redPorkCurry = {
   summary: "Pork chunks in a very spicy red curry",
   inspiration: "Rogan Josh",
   quantity: "6 servings",
-  time: "1 hour 15 minutes",
+  time: "1 hour",
   notes:
     "This is the spiciest recipe in the collection. On a scale of 1 to 10, it's a 9. It's possible to get spicier, but not by much. This is based off the spicy pork curry that Adolin gives Shallan when he's talking about the changing gender roles. If you want to make it less spicy, you could try replacing some of the gochugaru with paprika. Take the amount of gochugaru you remove, then use 3/4 of that amount of paprika.",
   quotes:
@@ -19,7 +19,7 @@ export const redPorkCurry = {
       ingredients: [
         {
           item: "yogurt",
-          display: "1/2 cup plain yogurt"
+          display: "1 cup plain yogurt"
         },
         {
           item: "gochugaru",
@@ -102,8 +102,8 @@ export const redPorkCurry = {
   ],
   steps: [
     "In a bowl, combine the yogurt and gochugaru. Set aside. Chop the pork into cubes around 3/4 inches in size. Set aside.",
-    "Heat the vegetable oil in a large frying pan over high heat until it hits the smoke point. Add the fennel seeds, ginger, cumin, cloves, cardamom, cinnamon, garam masala, salt, bay leaves, mustard powder, and turmeric. Stir and fry for one minute. Add the pork and cook and stir until cooked.",
-    "Add the gochugaru paste and 2 cups of the water. Stir to combine. Lower heat to medium-low and simmer for 45 minutes. Stir occasionally, and when the curry starts to get thick, add 1/2 cup of water. The last 10 minutes of cooking, don't add water. Allow it to thicken.",
+    "Heat the vegetable oil in a large frying pan over high heat until it hits the smoke point. Add the fennel seeds, ginger, cumin, cloves, cardamom, cinnamon, garam masala, salt, bay leaves, mustard powder, and turmeric. Stir and fry for 30 seconds. Add the pork and cook and stir until cooked, about 2 minutes.",
+    "Add the gochugaru paste and 2 cups of the water. Stir to combine. Lower heat to medium-low and simmer for 45 minutes. Stir occasionally, and each time the curry gets very thick, add 1/2 cup of water. You will likely add water three times or so. At the end, there will be pork chunks coated in a thick sauce.",
     "Meanwhile, prepare the basmati rice and/or flatbread. Cook the rice as directed by your rice cooker, using the water-to-rice ratio printed on your bag of rice.",
     "Serve curry with rice, or stuffed into flatbread pockets."
   ]
