@@ -5,7 +5,7 @@ export const kuma = {
   cuisine: "Alethi",
   summary: "A spiced spread, similar to hummus",
   inspiration: "Hummus",
-  quantity: "about 2 cups",
+  quantity: "2 1/2 cups",
   time: "10 minutes",
   notes:
     "The book describes a paste made of grain and spices served on flatbread. That sounds like hummus to me. I just tweaked the ingredients to match what the Alethi would have used.",
