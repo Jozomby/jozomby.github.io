@@ -32,7 +32,7 @@ export const shiki = {
     }
   ],
   steps: [
-    "Preheat the oven to 400 degrees Fahrenheit. Spread the rice on a baking sheet in a single layer, then roast for 40 minutes, shaking or stirring the pan every 10 minutes, until the rice is all dark brown.",
+    "Preheat the oven to 350 degrees Fahrenheit. Spread the rice on a baking sheet in a single layer, then roast for 40 minutes, shaking or stirring the pan every 10 minutes, until the rice is all dark brown.",
     "Bring the water to boil in a pot. Add the rice, then reduce the heat and simmer for 20 minutes. Turn off the heat and let sit for 7 more minutes.",
     "Strain the liquid, keeping the liquid and discarding the rice. Chill in the refrigerator. Serve chilled, optionally with a pinch of cayenne powder added to each cup."
   ]
