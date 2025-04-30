@@ -18,12 +18,17 @@ export const thaylenBread = {
       title: null,
       ingredients: [
         {
-          item: "water",
-          display: "1 1/3 cups water"
+          item: "wheatFlour",
+          display:
+            "3 3/4 to 4 1/4 cups whole wheat flour, divided, with additional as an optional topping"
         },
         {
           item: "yeast",
-          display: "1 packet (2 1/4 tsp) yeast"
+          display: "1 packet instant yeast"
+        },
+        {
+          item: "water",
+          display: "1 1/3 cups water"
         },
         {
           item: "honey",
@@ -34,11 +39,6 @@ export const thaylenBread = {
           display: "1/4 cup coconut oil"
         },
         {
-          item: "wheatFlour",
-          display:
-            "3 3/4 to 4 1/4 cups whole wheat flour, divided, with additional as an optional topping"
-        },
-        {
           item: "salt",
           display: "1 tsp salt"
         }
@@ -46,14 +46,15 @@ export const thaylenBread = {
     }
   ],
   steps: [
-    "Warm the water to about 110 degrees Fahrenheit. Mix the warm water with the yeast and honey in a stand mixer on high for 3 seconds. Let sit for 5 minutes until the mixture is foamy.",
-    "Add the coconut oil and 1 1/2 cups of the flour. With the whisk attachment on your stand mixer, mix on low for 30 seconds, scraping the edges of the bowl occasionally with a wooden spoon to combine all the ingredients. Mix on high for 3 minutes.",
-    "Replace the whisk attachment in the stand mixer with the dough hook attachment. Add the salt. Add the remaining flour, a bit at a time, mixing on low speed until the mixture forms a dough that holds together and pulls away from the sides of the bowl. You may not need the full amount of flour - add just enough to achieve the desired consistency.",
-    "Mix on low for 5 minutes. Turn the speed of the mixer up to medium and mix an additional 3 minutes. You should have a dough that is smooth and elastic.",
+    "Mix 1 1/2 cups flour and the yeast in an stand mixer's bowl. Set aside.",
+    "In a saucepan, combine the water, honey, coconut oil, and salt. Heat over medium heat just until warm, about 110 degrees Fahrenheit.",
+    "Add the liquid to the flour mixture. With the whisk attachment on your stand mixer, mix on low for 30 seconds, scraping the edges of the bowl occasionally with a wooden spoon to combine all the ingredients. Mix on high for 3 minutes.",
+    "Replace the whisk attachment in the stand mixer with the dough hook attachment. Start adding the remaining flour, a bit at a time, mixing on low speed until the mixture forms a dough that holds together and pulls away from the sides of the bowl. You may not need the full amount of flour - add just enough to achieve the desired consistency.",
+    "Mix on low for 5 minutes. Turn the speed of the mixer up to medium low and mix an additional 3 minutes. You should have a dough that is smooth and elastic.",
     "Remove the dough hook, form the dough into a ball, place back in the bowl, cover with a clean towel, and let rise in a warm place 1 hour or until doubled in size.",
     "Punch down the dough, then pat into a 4 inch by 8 inch rectangle. Roll up the rectangle, forming a 8 inch long roll. Tuck the ends down and pinch them to the bottom to seal them and form the loaf shape.",
     "Place the dough on a greased cookie sheet, cover with the towel, and let rise 30 minutes or until doubled in size.",
-    "Preheat the oven to 35 degrees Fahrenheit. If desired, sprinkle the top of the loaf with a bit of extra flour, for the same look that Kabsal used to disguise the poison on the bread he brought to Shallan and Jasnah. Bake for 35-40 minutes on the bottom rack. The bread will sound hollow when tapped when it is done.",
+    "Preheat the oven to 350 degrees Fahrenheit. Score the top of the loaf, cutting lightly just into the surface in a few places. If desired, sprinkle the top of the loaf with a bit of extra flour, to match the look on Kabsal's bread in The Way of Kings. Bake for 35-40 minutes on the bottom rack. The bread will sound hollow when tapped when it is done.",
     "Remove from the oven, then slice and serve with jam."
   ]
 }

@@ -22,12 +22,8 @@ export const dinnerRolls = {
           display: "2 1/4 - 2 3/4 cups all-purpose flour, divided"
         },
         {
-          item: "wheatFlour",
-          display: "1 cup whole wheat flour"
-        },
-        {
           item: "yeast",
-          display: "1 packet yeast"
+          display: "1 packet instant yeast"
         },
         {
           item: "dairy",
@@ -48,6 +44,10 @@ export const dinnerRolls = {
         {
           item: "eggs",
           display: "1 egg"
+        },
+        {
+          item: "wheatFlour",
+          display: "1 cup whole wheat flour"
         }
       ]
     }

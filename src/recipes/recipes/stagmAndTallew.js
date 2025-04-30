@@ -6,7 +6,7 @@ export const stagmAndTallew = {
   summary: "Gravy over rice, served with celery root on the side",
   inspiration: null,
   quantity: "4 servings",
-  time: "1 hour",
+  time: "1 hour 15 minutes",
   notes:
     "The gravy and rice portion of the recipe was fairly straightforward. The question was the stagm. It's described as a brownish tuber that is small enough for an entire tuber to be a single serving, and it can be sliced into disks that can be picked up and topped with other food. (The Way of Kings ch 54) The closest I could find to this was celeriac (celery root). If your celeriac is too large for a single serving, feel free to use 2 large roots instead of 4 small ones, and to cut them in half once cooked.",
   quotes:
@@ -51,7 +51,7 @@ export const stagmAndTallew = {
         },
         {
           item: "salt",
-          display: "1/2 tsp salt"
+          display: "1 tsp salt"
         },
         {
           item: "garlicClove",
@@ -71,9 +71,9 @@ export const stagmAndTallew = {
   ],
   steps: [
     "Peel the celeriac. Boil 1 hour or until a fork slides all the way in easily.",
-    "Cook the basmati rice in a rice cooker, with the amount of water directed on the package",
-    "Melt coconut oil in a pan over low heat. Dice onions, and to pan, and cook on low until golden, about 45 minutes.",
-    "Add garam masala, cumin, cardamom, gochugaru, salt, and minced garlic. Cook and stir over medium high heat for 2 minutes",
+    "Melt coconut oil in a pan over low heat. Dice the onions and them to pan along with the salt. Cook on low heat until golden, 45 to 60 minutes.",
+    "Meanwhile, cook the basmati rice in a rice cooker, with the amount of water directed on the package",
+    "Once the onions are browned, add the garam masala, cumin, cardamom, gochugaru, and minced garlic. Cook and stir over medium high heat for 2 minutes",
     "Add 2 cups water. Bring to a boil over medium high heat. In a bowl or cup, combine 2/3 cup water and corn starch to make a slurry. Pour the slurry into the pan, whisking as you do so. Cook and stir until thickened.",
     "Serve gravy over rice, with celeriac on the side. To eat, slice disks off the celeriac and pile with rice and gravy."
   ]

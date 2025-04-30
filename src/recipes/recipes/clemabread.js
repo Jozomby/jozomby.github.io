@@ -27,7 +27,7 @@ export const clemabread = {
         },
         {
           item: "yeast",
-          display: "1 packet yeast"
+          display: "1 packet instant yeast"
         },
         {
           item: "water",
@@ -51,7 +51,7 @@ export const clemabread = {
         },
         {
           item: "oats",
-          display: "1 cup oat flour"
+          display: "1 cup oat flour, plus additional"
         }
       ]
     },
@@ -84,7 +84,7 @@ export const clemabread = {
         },
         {
           item: "cumin",
-          display: "1/2 tsp ground cumin"
+          display: "3/4 tsp cumin seeds"
         },
         {
           item: "garlicClove",
@@ -108,15 +108,15 @@ export const clemabread = {
   steps: [
     "Soak the chiles guajillo and ancho in enough hot water to cover until soft, about 1 hour. If they're still hard, cut or tear holes in the peppers to allow water inside and let soak a bit longer.",
     "Meanwhile, place the half bell pepper (after removing the seeds) cut side down on a baking sheet. Broil on the top rack until half the skin is blackened. Remove the pepper and place it in a ziploc bag. Seal the bag and let the pepper steam. Once it's cool, peel off the skin. Set aside.",
-    "Place the caraway seeds and coriander in a small dry skillet. Toast over medium heat, stirring or shaking frequently, about 5 minutes until the seeds start to pop. Remove from heat and grind with a spice grinder.",
-    "While the chiles are soaking and pepper is steaming, start the dough. Put the steel cut oats in a saucepan and cover generously with water. Bring to a boil over high heat and boil for 5 minutes. Strain the oats and set aside.",
-    "Mix 1 1/2 cups white flour and the yeast in an electric mixing bowl, set aside.",
+    "Place the caraway, coriander, and cumin seeds in a small dry skillet. Toast over medium heat, stirring or shaking frequently, about 5 minutes until the seeds start to pop. Remove from heat and grind with a spice grinder.",
+    "While the chiles are soaking and pepper is steaming, start the dough. Put the steel cut oats in a saucepan and cover generously with water. Bring to a boil over high heat and boil for 5 minutes. Reduce heat if needed to stop it from boiling over. Strain the oats and set aside.",
+    "Mix 1 1/2 cups all-purpose flour and the yeast in an electric mixing bowl, set aside.",
     "In a saucepan, combine the 1 cup water, vegetable oil, sugar, and 1 tsp salt. Heat over medium heat just until warm, about 110 degrees Fahrenheit.",
     "Add the liquid to the flour mixture along with the egg. Mix on low for 30 seconds, then scrape the sides. Mix on high for 3 minutes.",
-    "Add the strained boiled oats and the oat flour. Attach the dough hook attachment to the mixer. Turn the mixer to low, and start adding the remaining 1 to 1 1/2 cups white flour. Add just enough so that the dough pulls away from the sides of the bowl and forms a moderately stiff dough. Continue mixing on low for 5 more minutes, then mix on medium low for 3 minutes. At any point, if dough starts sticking to the sides again, add a little flour.",
+    "Add the strained boiled oats and the oat flour. Attach the dough hook attachment to the mixer. Turn the mixer to low, and start adding the remaining 1 to 1 1/2 cups all-purpose flour. Add just enough so that the dough pulls away from the sides of the bowl and forms a moderately stiff dough. Continue mixing on low for 5 more minutes, then mix on medium low for 3 minutes. At any point, if dough starts sticking to the sides again, add a little flour.",
     "Form the dough into a ball, place back in the mixing bowl, then cover and let rise for 1 hour until double.",
-    "Meanwhile, finish making the filling. Remove the soaked chiles from the water. Remove the stems and seeds, then place in a food processor. Also add the steamed peeled bell pepper, ground toasted spices, cumin, garlic, olive oil, lemon juice, and 1/2 tsp salt. Process to a paste.",
-    "Once the dough has risen, punch it down. Sprinkle oat flour over your work surface. Divide dough into 12 pieces. One at a time, pat the piece into a thick disk about 5 inches across. Place 1 heaping tablespoon of filling paste in the center. Fold the dough in half gently around the paste, then pull the ends up to the center and pinch together to form a ball. Place the dough balls in a 9x13 baking pan. Cover and let rise for 30 minutes until double in size.",
-    "Preheat the oven to 350 degrees Fahrenheit. Bake for 20-25 minutes until tops are golden."
+    "Meanwhile, finish making the filling. Remove the soaked chiles from the water. Remove the stems and seeds, then place in a food processor. Also add the steamed peeled bell pepper, ground toasted spices, garlic, olive oil, lemon juice, and 1/2 tsp salt. Process to a paste.",
+    "Once the dough has risen, punch it down. Sprinkle oat flour over your work surface. Divide dough into 12 pieces. One at a time, pat the piece into a thick disk about 4 inches across. Place 1 tablespoon of filling paste in the center. Fold the dough in half gently around the paste, then pull the ends up to the center and pinch together to form a ball. Place the dough balls in a greased 9x13 baking pan. Cover and let rise for 30 minutes until double in size.",
+    "Preheat the oven to 375 degrees Fahrenheit. Bake for 20-25 minutes until tops are golden."
   ]
 }

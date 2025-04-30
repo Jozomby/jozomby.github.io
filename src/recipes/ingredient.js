@@ -648,11 +648,13 @@ export const info = {
   ),
   yeast: (
     <>
-      Though commercial yeast in packets or jars like we have today wouldn't be
-      available on Roshar, wild yeast can be used for the same purpose. This is
-      done today with sourdough recipes and the like. The people on Roshar
-      definitely have access to yeast, it's just a little less convenient than
-      what you can buy from the grocery store.
+      Most of the recipes use instant yeast. You can substitute with
+      active dry yeast if you prefer. Just use 1 tbsp active dry yeast instead
+      of 1 packet instant yeast. Though commercial yeast in packets or jars like
+      we have today wouldn't be available on Roshar, wild yeast can be used for
+      the same purpose. This is done today with sourdough recipes and the like.
+      The people on Roshar definitely have access to yeast, it's just a little
+      less convenient than what you can buy from the grocery store.
     </>
   ),
   yogurt: (

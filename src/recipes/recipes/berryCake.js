@@ -39,7 +39,7 @@ export const berryCake = {
         },
         {
           item: "yeast",
-          display: "1 tsp yeast"
+          display: "1 tsp active dry yeast"
         },
         {
           item: "dairy",
