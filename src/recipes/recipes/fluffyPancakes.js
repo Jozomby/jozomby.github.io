@@ -67,7 +67,7 @@ export const fluffyPancakes = {
     "Gently and carefully fold the egg whites into the batter, just until combined. There may still be some streaks of white.",
     "Carefully spoon some of the batter out onto the griddle into a circle shape. Repeat 5 more times to make 6 pancakes, using all of the batter.",
     "Cook until top is mostly set and bottom has started to brown. Flip, and cook until both sides have started to brown.",
-    "While pancakes are cooking, to make the syrup, stir together 1/4 cup water, the honey, and cinnamon stick together in a saucepan over high heat. Bring to a boil and boil for 5 minutes. Remove from heat and let sit 10 minutes.",
+    "While pancakes are cooking, to make the syrup, stir together 1/4 cup water, the honey, and cinnamon stick together in a saucepan over high heat. Bring to a boil, reduce heat to keep it from boiling over, and boil for 5 minutes. Remove from heat and let sit 10 minutes.",
     "To serve, remove the cinnamon stick from the sauce. Pour the sauce over the pancakes or dip them in it."
   ]
 }

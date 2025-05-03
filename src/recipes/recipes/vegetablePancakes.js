@@ -39,7 +39,7 @@ export const vegetablePancakes = {
         },
         {
           item: "summerSquash",
-          display: "6 cups grated zucchini (about 4 medium)"
+          display: "6 cups shredded zucchini (about 3 medium)"
         },
         {
           item: "preservedLemon",
@@ -54,7 +54,7 @@ export const vegetablePancakes = {
   ],
   steps: [
     "Combine rice flour, salt and cumin in a bowl. Briefly beat the eggs and add them to the mixture along with the dashi. Mix until combined. You can make dashi from dried bonito stock granules (hon dashi) according to the directions on the package.",
-    "Take the preserved lemons and scoop out the pulp and discard, preserving the peels. Mince the peels to get 1/4 cup peel. Add the minced lemon peel and the grated zucchini to the mixture. Mix until combined.",
-    "Heat 1 tbsp vegetable oil in a 8-9 inch frying pan over medium high heat. Toss the batter a bit to distribute any liquids at the bottom, then scoop 1/2 cup batter out and add it to the pan. Spread out the batter to fill the pan in an even layer. Cook until the bottom is browned, then flip. Cook until both sides are browned, then remove from the pan, add another 1/2 tbsp oil, and do it all again. (Toss the batter, add 1/2 cup batter to pan, etc.) Repeat until you've used all the batter."
+    "Take the preserved lemons and scoop out the pulp and discard, preserving the peels. Mince the peels to get 1/4 cup peel. You can shred the zucchini using the grater disk on a food processor or a hand-held grater. Add the minced lemon peel and the shredded zucchini to the mixture. Mix until combined.",
+    "Heat 1 tbsp vegetable oil in a 8-9 inch frying pan over medium high heat. Toss the batter a bit to distribute any liquids at the bottom, then scoop 1 cup batter out and add it to the pan. Spread out the batter to fill the pan in an even layer. Cook until the bottom is browned about 2-3 minutes, then flip. The easiest way to flip the pancake is to slide the pancake out of the pan onto a plate, then put the pan upside down over the pancake on the plate, and flip both the plate and pan quickly to drop the pancake onto the pan, uncooked side down. Cook until the other side is browned, about 1-2 minutes, then remove from the pan, add another 1/2 tbsp oil, and do it all again. (Toss the batter, add 1 cup batter to pan, etc.) Repeat until you've used all the batter."
   ]
 }
