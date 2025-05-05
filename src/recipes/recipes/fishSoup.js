@@ -46,7 +46,7 @@ export const fishSoup = {
   ],
   steps: [
     "Defrost smelts, if frozen. Clean them by cutting just behind the head, starting from the top but not cutting all the way through. Pull the head off - it should pull the innards out with it. Discard the head and innards. Repeat with all smelts. Rinse them.",
-    "Boil 2 quarts of water in a pot. Chop the onion and pepper, and add them to the boiling water along with the salt. Simmer for five minutes.",
-    "Add the smelts to the pot along with the coconut milk. Continue to simmer for at least 10 minutes. Taste the broth - if it's still too watery, simmer a bit longer."
+    "Boil 2 quarts of water in a pot. Chop the onion. Slice the pepper in half lengthwise, and remove the seeds if desired to make it less spicy. Thinly slice the pepper. Add the pepper, onion, and salt to the boiling water. Bring to a boil over high heat, then reduce heat and simmer for five minutes.",
+    "Add the smelts to the pot along with the coconut milk. Increase heat to high until it comes to a boil, then reduce heat again to simmer. Cook for 15 minutes. Taste the broth - if it's still too watery, simmer a bit longer. Serve hot."
   ]
 }
