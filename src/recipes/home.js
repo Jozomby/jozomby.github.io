@@ -3,7 +3,7 @@ import { RecipeCard } from "./recipe-card"
 import "./home.css"
 
 export const Home = memo(() => {
-  const [recipesToShow, setRecipesToShow] = useState(10)
+  const [recipesToShow, setRecipesToShow] = useState(50)
   const allRecipes = [
     <RecipeCard id="tsupales" />,
     <RecipeCard id="chickenAndMethiFruit" />,
