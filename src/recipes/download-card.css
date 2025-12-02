@@ -1,0 +1,32 @@
+.download-card {
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.download-content {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.download-content p {
+    font-size: 24px;
+}
+
+.download-card img {
+    height: 150px;
+}
+
+.download-buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding-bottom: 24px;
+}

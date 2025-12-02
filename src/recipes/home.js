@@ -1,5 +1,6 @@
 import { memo, useState } from "react"
 import { RecipeCard } from "./recipe-card"
+import { DownloadCard } from "./download-card"
 import "./home.css"
 
 export const Home = memo(() => {
@@ -68,8 +69,11 @@ export const Home = memo(() => {
   }
 
   return (
-    <div className="scrollContainer" onScroll={handleScroll}>
-      {allRecipes.slice(0, recipesToShow)}
-    </div>
+    <>
+      <DownloadCard />
+      <div className="scrollContainer" onScroll={handleScroll}>
+        {allRecipes.slice(0, recipesToShow)}
+      </div>
+    </>
   )
 })
